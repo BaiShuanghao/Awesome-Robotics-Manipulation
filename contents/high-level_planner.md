@@ -91,6 +91,7 @@
 | _Unified Reasoning_ |
 | [**RynnEC: Bringing MLLMs into Embodied World**](https://arxiv.org/abs/2508.14160) | arXiv | 2025-08-23 | ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/RynnEC?style=social&label=Star) [Github](https://github.com/alibaba-damo-academy/RynnEC) |  |
 | [**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**](https://arxiv.org/abs/2508.13998) | arXiv | 2025-08-19 | ![Star](https://img.shields.io/github/stars/pickxiguapi/Embodied-R1?style=social&label=Star) [Github](https://github.com/pickxiguapi/Embodied-R1) |  |
+| [**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**](https://arxiv.org/abs/2507.16815) | NeurIPS 2025 | 2025-07-22 | [Project](https://jasper0314-huang.github.io/thinkact-vla/) |  |
 | [**RoboBrain 2.0 Technical Report**](https://arxiv.org/abs/2507.02029) | arXiv | 2025-07-02 | ![Star](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.0?style=social&label=Star) [Github](https://github.com/FlagOpen/RoboBrain2.0) |  |
 | [FSD: **From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**](https://arxiv.org/abs/2505.08548) | arXiv | 2025-05-13 | [Project](https://embodied-fsd.github.io/) | |
 | [**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**](https://arxiv.org/abs/2502.21257) | CVPR 2025 | 2025-02-28 | [Project](https://superrobobrain.github.io/) |  |
