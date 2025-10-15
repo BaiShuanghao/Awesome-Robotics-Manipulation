@@ -783,6 +783,7 @@
 | [ECoT-Lite: **Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/abs/2505.08243) | arXiv | 2025-05-13 | - | |
 | [**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**](https://arxiv.org/abs/2505.03233) | arXiv | 2025-05-06 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/GraspVLA?style=social&label=Star) [Github](https://github.com/PKU-EPIC/GraspVLA) |  |
 | [**π<sub>0.5</sub>: a Vision-Language-Action Model with Open-World Generalization**](https://arxiv.org/abs/2504.16054) | arXiv | 2025-04-22 | [Project](https://www.pi.website/blog/pi05) |  |
+| [**<sub>EO-1</sub>: Interleaved Vision-Text-Action Pretraining for General Robot Control**](https://arxiv.org/abs/2508.21112) | arXiv | 2025-09-01 | [Project](https://eo-robotics.ai/eo-1) |  |
 | [DIARC‑OpenVLA: **Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**](https://arxiv.org/abs/2502.04558) | arXiv | 2025-02-06 | - |  |
 | [RAD: **Action-Free Reasoning for Policy Generalization**](https://arxiv.org/abs/2502.03729) | arXiv | 2025-02-06 | [Project](https://rad-generalization.github.io/) |  |
 | [**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**](https://arxiv.org/abs/2501.18867) | ICML 2025 | 2025-01-31 | ![Star](https://img.shields.io/github/stars/CladernyJorn/UP-VLA?style=social&label=Star) [Github](https://github.com/CladernyJorn/UP-VLA) |  |
