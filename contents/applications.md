@@ -20,7 +20,8 @@
 | _Feed_ |
 | [**Adaptive Visual Imitation Learning for Robotic Assisted Feeding Across Varied Bowl Configurations and Food Types**](https://arxiv.org/abs/2403.12891) | ICRAW 2024 | 2024-03-19  | - | Feed |
 | [VAPORS: **Learning Sequential Acquisition Policies for Robot-Assisted Feeding**](https://arxiv.org/abs/2309.05197) | CoRL 2023 | 2023-09-11  | [Project](https://sites.google.com/view/vaporsbot) | Feed |
-| _Scoop_ |
+| _Scoop & Pick_ |
+| [**Replaceable Bit-based Gripper for Picking Cluttered Food Items**](https://arxiv.org/abs/2601.00305) | arXiv | 2026-01-01  | - |  |
 | [**GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks**](https://arxiv.org/abs/2510.00573) | arXiv | 2023-10-01  | - |  |
 | _Assist_ |
 | [**Point and Go: Intuitive Reference Frame Reallocation in Mode Switching for Assistive Robotics**](https://arxiv.org/abs/2510.08753) | arXiv | 2025-10-09 | - | Assist |
@@ -69,6 +70,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**UNCLE-Grasp: Uncertainty-Aware Grasping of Leaf-Occluded Strawberries**](https://arxiv.org/abs/2601.14492) | arXiv | 2026-01-20  | - |
+| [**Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots**](https://arxiv.org/abs/2601.02085) | arXiv | 2026-01-05  | - |
 | [**Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge**](https://arxiv.org/abs/2510.12509) | RAM 2025 | 2025-10-14  | - |
 | [**Vision-Guided Targeted Grasping and Vibration for Robotic Pollination in Controlled Environments**](https://arxiv.org/abs/2510.06146) | arXiv | 2025-10-07  | - |
 | [**Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking**](https://arxiv.org/abs/2509.14530) | arXiv | 2025-09-18  | - |
@@ -106,6 +109,8 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Medical Science_|
+| [**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**](https://arxiv.org/abs/2601.21971) | arXiv | 2026-01-29 | - | |
+| [**SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling**](https://arxiv.org/abs/2512.23162) | arXiv | 2025-12-29 | - | |
 | [**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**](https://arxiv.org/abs/2512.18068) | arXiv | 2025-12-19 | - | |
 | [**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**](https://arxiv.org/abs/2511.15550) | arXiv | 2025-11-19 | - | |
 | [**Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning**](https://arxiv.org/abs/2510.16240) | arXiv | 2025-10-17 | - | |
@@ -118,11 +123,15 @@
 | [**3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery**](https://arxiv.org/abs/2204.031958) | ICRA 2022 | 2022-04-07 | - | |
 | [**Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning**](https://ieeexplore.ieee.org/document/9196912) | ICRA 2020 | 2020-09-15 | - | |
 | _Biology_ |
+| [**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**](https://arxiv.org/abs/2601.20776) | arXiv | 2026-01-28 | - | |
 | [**RoboCulture: A Robotics Platform for Automated Biological Experimentation**](https://arxiv.org/abs/2505.14941) | arXiv | 2025-05-20 | - | |
 | [**Real-Time Spatiotemporal Assistance for Micromanipulation Using Imitation Learning**](https://ieeexplore.ieee.org/document/10436348/) | RA-L 2024 | 2024-02-14 | - | |
 | _Chemical_ |
+| [**Sci-VLA: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments**](https://arxiv.org/abs/2602.09430) | arXiv | 2026-02-10 | - | |
+| [**CAPER: Constrained and Procedural Reasoning for Robotic Scientific Experiments**](https://arxiv.org/abs/2602.09367) | arXiv | 2026-02-10 | - | |
 | [**A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand**](https://pubs.acs.org/doi/10.1021/jacs.4c17738) | JACS 2025 | 2025-03-08 | - | |
 | _Aerospace_ |
+| [**Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction**](https://arxiv.org/abs/2601.05491) | arXiv | 2026-01-09 | - | |
 | [**Space Robotics Bench: Robot Learning Beyond Earth**](https://arxiv.org/abs/2509.23328) | arXiv | 2025-09-27 | ![Star](https://img.shields.io/github/stars/AndrejOrsula/space_robotics_bench?style=social&label=Star) [Github](https://github.com/AndrejOrsula/space_robotics_bench) | |
 | [**Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments**](https://arxiv.org/abs/2507.11006) | CASE 2025 | 2025-07-15 | - | |
 | [**Imitation Learning for Autonomous Trajectory Learning of Robot Arms in Space**](https://arxiv.org/abs/2008.04007) | arXiv | 2020-08-10 | - | Aerospace |
@@ -138,6 +147,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos**](https://arxiv.org/abs/2602.02473) | arXiv | 2026-02-02 | [Project](https://wyhuai.github.io/human-x/) | |
 | [**Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning**](https://arxiv.org/abs/2511.11218) | arXiv | 2025-11-14 | [Project](https://humanoid-badminton.github.io/Humanoid-Whole-Body-Badminton-via-Multi-Stage-Reinforcement-Learning/) | |
 | [**SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game**](https://arxiv.org/abs/2506.06690) | arXiv | 2025-06-07 | - | |
 | [**Learning Coordinated Badminton Skills for Legged Manipulators**](https://arxiv.org/abs/2506.06690) | SR 2025 | 2025-05-29 | - | |

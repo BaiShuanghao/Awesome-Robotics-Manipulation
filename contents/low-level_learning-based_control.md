@@ -59,6 +59,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Sampling / Search-based IL_ |
+| [**Just in time Informed Trees: Manipulability-Aware Asymptotically Optimized Motion Planning**](https://arxiv.org/abs/2601.19972) | arXiv | 2026-01-27| - |  |
 | [**A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search**](https://arxiv.org/abs/2506.05294) | arXiv | 2025-06-05 | ![Star](https://img.shields.io/github/stars/arnavkj1995/SAILOR?style=social&label=Star) [Github](https://github.com/arnavkj1995/SAILOR) |  |
 | [**A Structured Prediction Approach for Robot Imitation Learning**](https://arxiv.org/abs/2309.14829) | IJRR 2024 | 2023-09-26 | - | Search-based IL |
 | [**Guided Imitation of Task and Motion Planning**](https://arxiv.org/abs/2112.03386) | CoRL 2021 | 2021-12-06 | - |  |
@@ -72,6 +73,7 @@
 | [**Optimizing Demonstrated Robot Manipulation Skills for Temporal Logic Constraints**](https://arxiv.org/abs/2209.03001) | IROS 2022 | 2022-09-07 | - |  |
 | [**Learning Context-Adaptive Task Constraints for Robotic Manipulation**](https://arxiv.org/abs/2008.02610) | RAS 2021 | 2020-08-06 | - |  |
 | _Movement Primitives-based IL_ |
+| [**Language Movement Primitives: Grounding Language Models in Robot Motion**](https://arxiv.org/abs/2602.02839) | arXiv | 2026-02-02 | [Project](https://collab.me.vt.edu/lmp/) |  |
 | [**Geometry-aware Policy Imitation**](https://arxiv.org/abs/2510.08787) | arXiv | 2025-10-09 | ![Star](https://img.shields.io/github/stars/yimingli1998/GPI?style=social&label=Star) [Github](https://github.com/yimingli1998/GPI) |  |
 | [**Dynamical System-based Imitation Learning for Visual Servoing using the Large Projection Formulation**](https://ieeexplore.ieee.org/document/10160935) | ICRA 2023 | 2023-07-04 | - |  |
 | [**A Framework of Hybrid Force/Motion Skills Learning for Robots**](https://ieeexplore.ieee.org/document/8964480) | TCDS 2020 | 2020-01-22 | - |  |
@@ -146,8 +148,8 @@
 | _Latent Learning IL_ |
 | [**SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration**](https://arxiv.org/abs/2509.19292) | arXiv | 2025-09-23 | [Project](https://ericjin2002.github.io/SOE/) |  |
 | [**Latent Policy Barrier: Learning Robust Visuomotor Policies by Staying In-Distribution**](https://arxiv.org/abs/2508.05941) | arXiv | 2025-08-08 | [Project](https://project-latentpolicybarrier.github.io/) |  |
-| [**Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation**](https://arxiv.org/abs/2502.02853) | ICML 2025 | 2025-02-05 | ![Star](https://img.shields.io/github/stars/BaiShuanghao/BC-IB?style=social&label=Star) [Github](https://github.com/BaiShuanghao/BC-IB) |  |
 | [**Generalization Capability for Imitation Learning**](https://arxiv.org/abs/2504.18538) | arXiv | 2025-04-25 | - |  |
+| [**Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation**](https://arxiv.org/abs/2502.02853) | ICML 2025 | 2025-02-05 | ![Star](https://img.shields.io/github/stars/BaiShuanghao/BC-IB?style=social&label=Star) [Github](https://github.com/BaiShuanghao/BC-IB) |  |
 | [**Memory-Consistent Neural Networks for Imitation Learning**](https://arxiv.org/abs/2310.06171) | ICLR 2024 | 2023-10-09 | ![Star](https://img.shields.io/github/stars/kaustubhsridhar/MCNN?style=social&label=Star) [Github](https://github.com/kaustubhsridhar/MCNN) |  |
 | [**A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies**](https://arxiv.org/abs/2208.00596) | IROS 2022 | 2022-08-01 | ![Star](https://img.shields.io/github/stars/ir-lab/irl_control?style=social&label=Star) [Github](https://github.com/ir-lab/irl_control/tree/iros2022-dev/irl_control/learning) |  |
 | [**Robotic Manipulation Skill Acquisition Via Demonstration Policy Learning**](https://ieeexplore.ieee.org/document/9471764) | TCDS 2021 | 2025-07-02 | - | Temporal |
@@ -253,6 +255,8 @@
 | [**Learning Sensorimotor Primitives of Sequential Manipulation Tasks from Visual Demonstrations**](https://arxiv.org/abs/2203.03797) | arXiv | 2022-03-08 | - |  |
 | [**Motion Reasoning for Goal-Based Imitation Learning**](https://arxiv.org/abs/1911.05864) | ICRA 2020 | 2019-11-13 | - |  |
 | [**Learning Actions from Human Demonstration Video for Robotic Manipulation**](https://arxiv.org/abs/1909.04312) | IROS 2019 | 2019-09-10 | - |  |
+| _Goal-Conditioned IL_ |
+| [**Learning from Demonstrations via Capability-Aware Goal Sampling**](https://arxiv.org/abs/2601.08731) | arXiv | 2026-01-13 | - |  |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
@@ -407,6 +411,8 @@
 | [**Accelerating Interactive Human-like Manipulation Learning with GPU-based Simulation and High-quality Demonstrations**](https://arxiv.org/abs/2212.02126) | Humanoids 2022 | 2022-12-05 | [Project](https://git.ais.uni-bonn.de/mosbach/gym-grasp) | |
 | [**AW-Opt: Learning Robotic Skills with Imitation and Reinforcement at Scale**](https://arxiv.org/abs/2111.05424) | CoRL 2021 | 2021-11-09 | [Project](https://awopt.github.io/) | |
 | [**Augmenting GAIL with BC for Sample Efficient Imitation Learning**](https://arxiv.org/abs/2001.07798) | CoRL 2021 | 2020-01-21 | ![Star](https://img.shields.io/github/stars/rohitrango/BC-regularized-GAIL?style=social&label=Star) [Github](https://github.com/rohitrango/BC-regularized-GAIL) | |
+| _Human-in-loop RL_ |
+| [**Real-world Reinforcement Learning from Suboptimal Interventions**](https://arxiv.org/abs/2512.242888) | arXiv | 2025-12-30 | [Project](https://silri-rl.github.io/) | |
 | _In-Context RL_ |
 | [**Demonstration-Conditioned Reinforcement Learning for Few-Shot Imitation**](https://proceedings.mlr.press/v139/dance21a.html) | ICML 2021 | 2021-06-11 | - | |
 
@@ -433,6 +439,8 @@
 | [**Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**](https://arxiv.org/abs/2412.14957) | ICLR 2025 | 2024-12-19 | ![Star](https://img.shields.io/github/stars/leobarcellona/drema_code?style=social&label=Star) [Github](https://github.com/leobarcellona/drema_code) | |
 | [SWIM: **Structured World Models from Human Videos**](https://arxiv.org/abs/2308.10901) | RSS 2023 | 2023-08-23 | [Project](https://human-world-model.github.io/) | |
 | _3D/Physics-consistent WMs_ |
+| [**MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation**](https://arxiv.org/abs/2602.09878) | arXiv | 2026-02-10 | - |  |
+| [**Mirage2Matter: A Physically Grounded Gaussian World Model from Video**](https://arxiv.org/abs/2602.00096) | arXiv | 2026-01-24 | - |  |
 | [**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**](https://arxiv.org/abs/2506.06199) | arXiv | 2025-06-06 | ![Star](https://img.shields.io/github/stars/Hoyyyaard/3DFlowAction?style=social&label=Star) [Github](https://github.com/Hoyyyaard/3DFlowAction/) |  |
 | [**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**](https://arxiv.org/abs/2506.23126) | arXiv | 2025-06-29 | [Project](https://particleformer.github.io/) | |
 | [**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**](https://arxiv.org/abs/2506.14135) | arXiv | 2025-06-17 | - | |
@@ -506,7 +514,7 @@
 | [R&D: **Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning**](https://arxiv.org/abs/2405.18196) | RSS 2024 | 2024-05-28 | ![Star](https://img.shields.io/github/stars/vv19/rendiff?style=social&label=Star) [Github](https://github.com/vv19/rendiff) | |
 | [GR-1: **Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**](https://arxiv.org/abs/2312.13139) | ICLR 2024 | 2023-12-20 | ![Star](https://img.shields.io/github/stars/bytedance/GR-1?style=social&label=Star) [Github](https://github.com/bytedance/GR-1) |  |
 | [SuSIE: **Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**](https://arxiv.org/abs/2310.10639) | ICLR 2024 | 2023-10-16 | ![Star](https://img.shields.io/github/stars/kvablack/susie?style=social&label=Star) [Github](https://github.com/kvablack/susie) |  |
-| [VLP: **Video Language Planning**](https://arxiv.org/abs/2310.10625) | ICLR 2024 | 2023-10-16 | ![Star](https://img.shields.io/github/stars/video-language-planning/vlp_code?style=social&label=Star) [Github][Github](https://github.com/video-language-planning/vlp_code) | |
+| [VLP: **Video Language Planning**](https://arxiv.org/abs/2310.10625) | ICLR 2024 | 2023-10-16 | ![Star](https://img.shields.io/github/stars/video-language-planning/vlp_code?style=social&label=Star) [Github](https://github.com/video-language-planning/vlp_code) | |
 | [HOPMan: **Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans**](https://arxiv.org/abs/2312.00775) | ICRA 2024 | 2023-12-01 | [Project](https://homangab.github.io/hopman/) |  |
 | [**Future-guided Offline Imitation Learning for Long Action Sequences via Video Interpolation and Future-trajectory Prediction**](https://www.sciencedirect.com/science/article/abs/pii/S0925231223004484) | Neucom 2023 | 2023-08-28 | - |  |
 | [**Plan Diffuser: Grounding LLM Planners with Diffusion Models for Robotic Manipulation**](https://openreview.net/forum?id=2a3sgm5YeX) | CoRLW 2023 | 2023-11-03 | - |  |
@@ -590,6 +598,7 @@
 | [**Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning**](https://arxiv.org/abs/2506.05808) | arXiv | 2025-06-06 | - | Gaze |
 | [**Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze and Bottleneck**](https://arxiv.org/abs/2502.18121) | arXiv | 2025-02-25 | ![Star](https://img.shields.io/github/stars/crumbyRobotics/gazebot?style=social&label=Star) [Github](https://github.com/crumbyRobotics/gazebot) | Gaze |
 | [**Gaze-Guided Task Decomposition for Imitation Learning in Robotic Manipulation**](https://arxiv.org/abs/2501.15071) | arXiv | 2025-01-25 | ![Star](https://img.shields.io/github/stars/crumbyRobotics/GazeTaskDecomp?style=social&label=Star) [Github](https://github.com/crumbyRobotics/GazeTaskDecomp) | Gaze |
+| [**Intent at a Glance: Gaze-Guided Robotic Manipulation via Foundation Models**](https://arxiv.org/abs/2601.05336) | RSSW 2025 | 2026-01-08 | [Project](https://gamma0.vercel.app/) |  |
 | [**VIRT: Vision Instructed Transformer for Robotic Manipulation**](https://arxiv.org/abs/2410.07169) | arXiv | 2024-10-09 | ![Star](https://img.shields.io/github/stars/Lizhuoling/VIRT?style=social&label=Star) [Github](https://github.com/Lizhuoling/VIRT) |  |
 | [**Using Human Gaze in Few-shot Imitation Learning for Robot Manipulation**](https://ieeexplore.ieee.org/document/9981706) | IROS 2022 | 2022-12-26 | - | Gaze |
 | [**Memory-based Gaze Prediction in Deep Imitation Learning for Robot Manipulation**](https://arxiv.org/abs/2202.04877) | ICRA 2022 | 2022-02-10 | - | Gaze |
@@ -597,6 +606,7 @@
 | [**Gaze-Based Dual Resolution Deep Imitation Learning for High-Precision Dexterous Robot Manipulation**](https://arxiv.org/abs/2102.01295) | RA-L 2021 | 2021-02-02 | - | Gaze |
 | [**Using Human Gaze to Improve Robustness Against Irrelevant Objects in Robot Manipulation Tasks**](https://ieeexplore.ieee.org/document/9103290) | RA-L 2020 | 2020-05-28| - | Gaze |
 | _Heatmap/Keypoint_|
+| [**Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models**](https://arxiv.org/abs/2602.09017) | arXiv | 2026-02-09 | ![Star](https://img.shields.io/github/stars/jeffacce/cap-policy?style=social&label=Star) [Github](https://github.com/jeffacce/cap-policy) |  |
 | [**Generalizable Coarse-to-Fine Robot Manipulation via Language-Aligned 3D Keypoints**](https://arxiv.org/abs/2509.23575) | arXiv | 2025-09-28 | - |  |
 | [**AFFORD2ACT: Affordance-Guided Automatic Keypoint Selection for Generalizable and Lightweight Robotic Manipulation**](https://arxiv.org/abs/2510.01433) | arXiv | 2025-10-01 | [Project](https://afford2act.github.io/) |  |
 | [**Robotic Manipulation Framework Based on Semantic Keypoints for Packing Shoes of Different Sizes, Shapes, and Softness**](https://arxiv.org/abs/2509.06048) | RAS 2025 | 2025-06-26 | - |  |
@@ -641,6 +651,9 @@
 | [**Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation**](https://arxiv.org/abs/2405.01527) | ECCV 2024 | 2024-05-02 | ![Star](https://img.shields.io/github/stars/homangab/Track-2-Act?style=social&label=Star) [Github](https://github.com/homangab/Track-2-Act) |  |
 | [ATM: **Any-point Trajectory Modeling for Policy Learning**](https://arxiv.org/abs/2401.00025) | RSS 2024 | 2023-12-28 | ![Star](https://img.shields.io/github/stars/Large-Trajectory-Model/any-point-trajectory-modeling?style=social&label=Star) [Github](https://github.com/Large-Trajectory-Model/any-point-trajectory-modeling) |  |
 | _Flow_|
+| [**Future Optical Flow Prediction Improves Robot Control & Video Generation**](https://arxiv.org/abs/2601.10781) | arXiv | 2026-01-15 | ![Star](https://img.shields.io/github/stars/SalesforceAIResearch/FOFPred?style=social&label=Star) [Github](https://github.com/SalesforceAIResearch/FOFPred) |  |
+| [**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**](https://arxiv.org/abs/2601.03782) | arXiv | 2026-01-07 | ![Star](https://img.shields.io/github/stars/huangwl18/PointWorld?style=social&label=Star) [Github](https://github.com/huangwl18/PointWorld) |  |
+| [**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**](https://arxiv.org/abs/2512.24766) | arXiv | 2025-12-31 | [Project](https://dream2flow.github.io/) |  |
 | [**Translating Flow to Policy via Hindsight Online Imitation**](https://arxiv.org/abs/2512.19269) | arXiv | 2025-12-22 | [Project](https://dwjshift.github.io/HinFlow) |  |
 | [**LAOF: Robust Latent Action Learning with Optical Flow Constraints**](https://arxiv.org/abs/2511.16407) | arXiv | 2025-11-20 | ![Star](https://img.shields.io/github/stars/XizoB/LAOF?style=social&label=Star) [Github](https://github.com/XizoB/LAOF) |  |
 | [**Actron3D: Learning Actionable Neural Functions from Videos for Transferable Robotic Manipulation**](https://arxiv.org/abs/2510.12971) | arXiv | 2025-10-14 | [Project](https://dipan-zhang.github.io/Actron3D-project/) |  |
@@ -668,6 +681,12 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| _Video-Action Models_ |
+| [**Act2Goal: From World Model To General Goal-conditioned Policy**](https://arxiv.org/abs/2512.23541) | arXiv | 2025-12-29 | [Project](https://act2goal.github.io/) |  |
+| [**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**](https://arxiv.org/abs/2601.18323) | arXiv | 2026-01-26 | ![Star](https://img.shields.io/github/stars/wsbaiyi/TC-IDM?style=social&label=Star) [Github](https://github.com/wsbaiyi/TC-IDM) |  |
+| _Image-Action Models_ |
+| [**Viewpoint Matters: Dynamically Optimizing Viewpoints with Masked Autoencoder for Visual Manipulation**](https://arxiv.org/abs/2602.04243) | arXiv | 2026-02-04 | [Project](https://mae-select.github.io/) |  |
+| [**X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning**](https://arxiv.org/abs/2601.11269) | arXiv | 2026-01-16 | - |  |
 | [**Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning**](https://arxiv.org/abs/2512.05953) | arXiv | 2025-12-05 | [Project](https://coil-manip.github.io/) |  |
 | [**Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation**](https://arxiv.org/abs/2405.07503) | RSS 2024 | 2024-05-13 | ![Star](https://img.shields.io/github/stars/Aaditya-Prasad/Consistency-Policy?style=social&label=Star) [Github](https://github.com/Aaditya-Prasad/Consistency-Policy) |  |
 | [**Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods**](https://arxiv.org/abs/2308.03620) | IROS 2023 | 2023-08-07 | [Project](https://explore-pretrain-robot.github.io/) |  |
@@ -684,6 +703,9 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Learning Diverse Skills for Behavior Models with Mixture of Experts**](https://arxiv.org/abs/2601.12397) | arXiv | 2026-01-18 | ![Star](https://img.shields.io/github/stars/robotnav-bot/Di-BM?style=social&label=Star) [Github](https://github.com/robotnav-bot/Di-BM) |  |
+| [**Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding**](https://arxiv.org/abs/2512.24638) | arXiv | 2025-12-31 | [Project](https://tinda24.github.io/pam/) |  |
+| [**HMVLA: Hyperbolic Multimodal Fusion for Vision-Language-Action Models**](https://arxiv.org/abs/2602.02533) | arXiv | 2026-01-28 | - |  |
 | [**Learning Semantic Atomic Skills for Multi-Task Robotic Manipulation**](https://arxiv.org/abs/2512.18368) | arXiv | 2025-12-20 | - |  |
 | [**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**](https://arxiv.org/abs/2512.03724) | arXiv | 2025-12-03 | - |  |
 | [**TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models**](https://arxiv.org/abs/2511.05275) | arXiv | 2025-11-07 | [Project](https://jellyho.github.io/TwinVLA/) |  |
@@ -724,11 +746,17 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Think Proprioceptively: Embodied Visual Reasoning for VLA Manipulation**](https://arxiv.org/abs/2602.06575) | arXiv | 2026-02-06 | [Project](https://nicehiro.github.io/ThinkProprio/) | |
+| [**RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization**](https://arxiv.org/abs/2602.03310) | arXiv | 2026-02-03 | ![Star](https://img.shields.io/github/stars/thu-ml/RDT2?style=social&label=Star) [Github](https://github.com/thu-ml/RDT2) | |
+| [**Green-VLA: Staged Vision-Language-Action Model for Generalist Robots**](https://arxiv.org/abs/2602.00919) | arXiv | 2026-01-31 | ![Star](https://img.shields.io/github/stars/greenvla/GreenVLA?style=social&label=Star) [Github](https://github.com/greenvla/GreenVLA) | |
+| [**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**](https://arxiv.org/abs/2601.14133) | arXiv | 2026-01-20 | ![Star](https://img.shields.io/github/stars/ZGC-EmbodyAI/TwinBrainVLA?style=social&label=Star) [Github](https://github.com/ZGC-EmbodyAI/TwinBrainVLA) | |
+| [**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**](https://arxiv.org/abs/2512.24125) | arXiv | 2025-12-30 | [Project](https://geniereasoner.github.io/GenieReasoner/) | |
+| [**Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone**](https://arxiv.org/abs/2512.22615) | arXiv | 2025-12-27 | ![Star](https://img.shields.io/github/stars/DreamLM/Dream-VLX?style=social&label=Star) [Github](https://github.com/DreamLM/Dream-VLX) | |
 | [**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**](https://arxiv.org/abs/2512.15411) | arXiv | 2025-12-17 | - | |
 | [**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**](https://arxiv.org/abs/2512.05693) | arXiv | 2025-12-05 | ![Star](https://img.shields.io/github/stars/ZhiyingDu/HiMoE-VLA?style=social&label=Star) [Github](https://github.com/ZhiyingDu/HiMoE-VLA) | |
 | [**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization**](https://arxiv.org/abs/2512.04952) | arXiv | 2025-12-04 | - | |
 | [**ℰ_0: Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion**](https://arxiv.org/abs/2511.21542) | arXiv | 2025-11-26 | [Project](https://doo-mon.github.io/e0web/) | |
-| [**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**](https://arxiv.org/abs/2511.01718) | arXiv | 2025-11-03 | ![Star](https://img.shields.io/github/stars/OpenHelix-Team/Unified-Diffusion-VLA?style=social&label=Star) [Github](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA) | |
+| [**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**](https://arxiv.org/abs/2511.01718) | ICLR 2026 | 2025-11-03 | ![Star](https://img.shields.io/github/stars/OpenHelix-Team/Unified-Diffusion-VLA?style=social&label=Star) [Github](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA) | |
 | [**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**](https://arxiv.org/abs/2510.14300) | arXiv | 2025-10-16 | - | |
 | [**InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy**](https://arxiv.org/abs/2510.13778) | arXiv | 2025-10-15 | ![Star](https://img.shields.io/github/stars/InternRobotics/InternVLA-M1?style=social&label=Star) [Github](https://github.com/InternRobotics/InternVLA-M1) | |
 | [**VLA-0: Building State-of-the-Art VLAs with Zero Modification**](https://arxiv.org/abs/2510.13054) | arXiv | 2025-10-15 | ![Star](https://img.shields.io/github/stars/NVlabs/vla0?style=social&label=Star) [Github](https://github.com/NVlabs/vla0) | |
@@ -740,13 +768,14 @@
 | [**EO-1: Interleaved Vision-Text-Action Pretraining for General Robot Control**](https://arxiv.org/abs/2508.21112) | arXiv | 2025-08-28 | [Project](https://eo-robotics.ai/eo-1) | visual trace + text reasoning |
 | [**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**](https://arxiv.org/abs/2508.20072) | arXiv | 2025-08-27 | - | |
 | [**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**](https://arxiv.org/abs/2511.11478) | AAAI 2026 | 2025-11-14 | [Project](https://libero-mem.github.io/) | |
+| [**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**](https://arxiv.org/abs/2507.17520) | arXiv | 2025-07-23 | ![Star](https://img.shields.io/github/stars/InternRobotics/InstructVLA?style=social&label=Star) [Github](https://github.com/InternRobotics/InstructVLA) | |
 | [**GR-3 Technical Report**](https://arxiv.org/abs/2507.15493) | arXiv | 2025-07-18 | [Project](https://seed.bytedance.com/zh/GR3) | |
 | [**cVLA: Towards Efficient Camera-Space VLAs**](https://arxiv.org/abs/2507.02190) | arXiv | 2025-07-02 | - | Keypose |
 | [UniVLA: **Unified Vision-Language-Action Model**](https://arxiv.org/abs/2506.19850) | arXiv | 2025-06-24 | ![Star](https://img.shields.io/github/stars/baaivision/UniVLA?style=social&label=Star) [Github](https://github.com/baaivision/UniVLA) | |
 | [ChatVLA-2: **Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**](https://arxiv.org/abs/2505.21906) | arXiv | 2025-05-28 | [Project](https://chatvla-2.github.io/) | |
 | [**Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions**](https://arxiv.org/abs/2505.02152) | arXiv | 2025-05-04 | [Project](https://interleave-vla-anonymous.github.io/Interleave-VLA-Anonymous/) |  |
 | [**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**](https://arxiv.org/abs/2503.10631) | arXiv | 2025-03-13 | ![Star](https://img.shields.io/github/stars/PKU-HMI-Lab/Hybrid-VLA?style=social&label=Star) [Github](https://github.com/PKU-HMI-Lab/Hybrid-VLA) |  |
-| [OpenVLA-Oft: **Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success**](https://arxiv.org/abs/2502.19645) | arXiv | 2025-02-27 | ![Star](https://img.shields.io/github/stars/moojink/openvla-oft?style=social&label=Star) [Github](https://github.com/moojink/openvla-oft) |  |
+| [OpenVLA-Oft: **Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success**](https://arxiv.org/abs/2502.19645) | RSS 2025 | 2025-02-27 | ![Star](https://img.shields.io/github/stars/moojink/openvla-oft?style=social&label=Star) [Github](https://github.com/moojink/openvla-oft) |  |
 | [**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**](https://arxiv.org/abs/2502.19250) | arXiv | 2025-02-26 | [Project](https://objectvla.github.io/) |  |
 | [**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**](https://arxiv.org/abs/2502.14420) | arXiv | 2025-02-20 | ![Star](https://img.shields.io/github/stars/tutujingyugang1/ChatVLA_public?style=social&label=Star) [Github](https://github.com/tutujingyugang1/ChatVLA_public) |  |
 | [**DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control**](https://arxiv.org/abs/2502.05855) | arXiv | 2025-02-09 | ![Star](https://img.shields.io/github/stars/juruobenruo/DexVLA?style=social&label=Star) [Github](https://github.com/juruobenruo/DexVLA) |  |
@@ -767,7 +796,12 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-| [**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**](https://arxiv.org/abs/2512.02834) | arXiv | 2025-12-02 | ![Star](https://img.shields.io/github/stars/breez3young/TACO?style=social&label=Star) [Github](https://github.com/breez3young/TACO) | |
+| [**Reshaping Action Error Distributions for Reliable Vision-Language-Action Models**](https://arxiv.org/abs/2602.04228) | arXiv | 2026-02-04 | ![Star](https://img.shields.io/github/stars/Cognition2ActionLab/VLA-TMEE?style=social&label=Star) [Github](https://github.com/Cognition2ActionLab/VLA-TMEE) | |
+| [**SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models**](https://arxiv.org/abs/2602.04208) | arXiv | 2026-02-04 | - | |
+| [**LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries**](https://arxiv.org/abs/2601.15197) | arXiv | 2026-01-21 | ![Star](https://img.shields.io/github/stars/ZGC-EmbodyAI/LangForce?style=social&label=Star) [Github](https://github.com/ZGC-EmbodyAI/LangForce) | |
+| [**SOP: A Scalable Online Post-Training System for Vision-Language-Action Models**](https://arxiv.org/abs/2601.03044) | arXiv | 2026-01-06 | [Project](https://www.agibot.com/research/sop) | |
+| [**Value Vision-Language-Action Planning & Search**](https://arxiv.org/abs/2601.00969) | arXiv | 2026-01-02 | - | |
+| [**Steering Vision--Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**](https://arxiv.org/abs/2512.02834) | arXiv | 2025-12-02 | ![Star](https://img.shields.io/github/stars/breez3young/TACO?style=social&label=Star) [Github](https://github.com/breez3young/TACO) | |
 | [**MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization**](https://arxiv.org/abs/2511.19878) | arXiv | 2025-11-25 | [Project](https://mapsvla.github.io/) | |
 | [**Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging**](https://arxiv.org/abs/2512.08333) | arXiv | 2025-12-09 | - | |
 | [**Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention**](https://arxiv.org/abs/2511.22555) | arXiv | 2025-11-27 | - | |
@@ -794,7 +828,7 @@
 | [**Confidence Calibration in Vision-Language-Action Models**](https://arxiv.org/abs/2507.17383) | arXiv | 2025-07-23 | - | |
 | [**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**](https://arxiv.org/abs/2507.05116) | arXiv | 2025-07-07 | ![Star](https://img.shields.io/github/stars/LukeLIN-web/VOTE?style=social&label=Star) [Github](https://github.com/LukeLIN-web/VOTE) | |
 | [**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**](https://arxiv.org/abs/2507.01843) | arXiv | 2025-07-02 | - | |
-| [**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**](https://arxiv.org/abs/2506.19816) | arXiv | 2025-06-24 | ![Star](https://img.shields.io/github/stars/OpenRobotLab/CronusVLA?style=social&label=Star) [Github](https://github.com/OpenRobotLab/CronusVLA) | |
+| [**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**](https://arxiv.org/abs/2506.19816) | AAAI 2026 | 2025-06-24 | ![Star](https://img.shields.io/github/stars/OpenRobotLab/CronusVLA?style=social&label=Star) [Github](https://github.com/OpenRobotLab/CronusVLA) | |
 | [**RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models**](https://arxiv.org/abs/2506.17811) | arXiv | 2025-06-21 | [Project](https://robomonkey-vla.github.io/) | |
 | [**RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models**](https://www.arxiv.org/abs/2508.02062) | CoRL 2025 | 2025-08-04 | ![Star](https://img.shields.io/github/stars/ricl-vla/ricl_openpi?style=social&label=Star) [Github](https://github.com/ricl-vla/ricl_openpi) | In-Context VLA |
 | [**VLA Model-Expert Collaboration for Bi-directional Manipulation Learning**](https://arxiv.org/abs/2503.04163) | arXiv | 2025-03-06 | [Project](https://aoqunjin.github.io/Expert-VLA/) |  |
@@ -806,7 +840,13 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**](https://arxiv.org/abs/2602.09023) | arXiv | 2026-02-09 | [Project](https://sites.google.com/view/twinrl/twinrl) |  |
+| [**RL-VLA<sup>3</sup>: Reinforcement Learning VLA Accelerating via Full Asynchronism**](https://arxiv.org/abs/2602.02454) | arXiv | 2026-02-05 | - |  |
+| [**World-Gymnast: Training Robots with Reinforcement Learning in a World Model**](https://arxiv.org/abs/2602.02454) | arXiv | 2026-02-02 | ![Star](https://img.shields.io/github/stars/world-gymnast/world-gymnast?style=social&label=Star) [Github](https://github.com/world-gymnast/world-gymnast) |  |
+| [**SA-VLA: Spatially-Aware Flow-Matching for Vision-Language-Action Reinforcement Learning**](https://arxiv.org/abs/2602.00743) | arXiv | 2026-01-31 | ![Star](https://img.shields.io/github/stars/TwSphinx54/SA-VLA?style=social&label=Star) [Github](https://github.com/TwSphinx54/SA-VLA) |  |
+| [**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**](https://arxiv.org/abs/2601.06748) | arXiv | 2026-01-13 | - |  |
 | [**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**](https://arxiv.org/abs/2512.05107) | arXiv | 2025-12-04 | [Project](https://sites.google.com/view/starevla) |  |
+| [**SOP: A Scalable Online Post-Training System for Vision-Language-Action Models**](https://arxiv.org/abs/2601.03044) | arXiv | 2026-01-06 | [Project](https://www.agibot.com/research/sop) |  |
 | [**GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation**](https://arxiv.org/abs/2512.01801) | arXiv | 2025-12-01 | [Project](https://seed.bytedance.com/zh/gr_rl) |  |
 | [**Reinforcing Action Policies by Prophesying**](https://arxiv.org/abs/2511.20633) | arXiv | 2025-11-25 | [Project](https://logosroboticsgroup.github.io/ProphRL/) |  |
 | [**Discover, Learn, and Reinforce: Scaling Vision-Language-Action Pretraining with Diverse RL-Generated Trajectories**](https://arxiv.org/abs/2511.19528) | arXiv | 2025-11-24 | - |  |
@@ -824,7 +864,7 @@
 | [**Emergent World Representations in OpenVLA**](https://arxiv.org/abs/2509.24559) | arXiv | 2025-09-29 | ![Star](https://img.shields.io/github/stars/FlexCode29/reproducibility-emergent-world-model-openvla?style=social&label=Star) [Github](https://github.com/FlexCode29/reproducibility-emergent-world-model-openvla) |  |
 | [**Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training**](https://arxiv.org/abs/2509.19752) | arXiv | 2025-09-24 | - |  |
 | [**Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach**](https://arxiv.org/abs/2509.13774) | arXiv | 2025-09-17 | [Project](https://sites.google.com/view/hil-daft/) |  |
-| [**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**](https://arxiv.org/abs/2509.09674) | arXiv | 2025-09-16 | ![Star](https://img.shields.io/github/stars/PRIME-RL/SimpleVLA-RL?style=social&label=Star) [Github](https://github.com/PRIME-RL/SimpleVLA-RL) |  |
+| [**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**](https://arxiv.org/abs/2509.09674) | ICLR 2026 | 2025-09-16 | ![Star](https://img.shields.io/github/stars/PRIME-RL/SimpleVLA-RL?style=social&label=Star) [Github](https://github.com/PRIME-RL/SimpleVLA-RL) |  |
 | [**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**](https://arxiv.org/abs/2509.04063) | arXiv | 2025-09-04 | - |  |
 | [**CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning**](https://arxiv.org/abs/2508.02219) | arXiv | 2025-08-04 | - |  |
 | [**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**](https://arxiv.org/abs/2507.16815) | NeurIPS 2025 | 2025-07-22 | [Project](https://jasper0314-huang.github.io/thinkact-vla/) | |
@@ -847,12 +887,17 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction**](https://arxiv.org/abs/2602.03668) | arXiv | 2026-02-03 | - | |
+| [**ConLA: Contrastive Latent Action Learning from Human Videos for Robotic Manipulation**](https://arxiv.org/abs/2602.00557) | arXiv | 2026-01-31 | ![Star](https://img.shields.io/github/stars/WeishengDAI/ConLA?style=social&label=Star) [Github](https://github.com/WeishengDAI/ConLA) | |
+| [**Vision-Language Models Unlock Task-Centric Latent Actions**](https://arxiv.org/abs/2601.22714) | arXiv | 2026-01-30 | - | |
+| [**CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos**](https://arxiv.org/abs/2601.04061) | arXiv | 2026-01-07 | [Project](https://lin-shan.com/CLAP/) | |
 | [**LoLA: Long Horizon Latent Action Learning for General Robot Manipulation**](https://arxiv.org/abs/2512.20166) | arXiv | 2025-12-23 | - | |
 | [**GLaD: Geometric Latent Distillation for Vision-Language-Action Models**](https://arxiv.org/abs/2512.09619) | arXiv | 2025-12-10 | - | |
 | [**LatBot: Distilling Universal Latent Actions for Vision-Language-Action Models**](https://arxiv.org/abs/2511.23034) | arXiv | 2025-11-28 | [Project](https://mm-robot.github.io/distill_latent_action/) | |
 | [**XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations**](https://arxiv.org/abs/2511.02776) | arXiv | 2025-11-04 | [Project](https://xr-1-vla.github.io/) | |
 | [**iFlyBot-VLA Technical Report**](https://arxiv.org/abs/2511.01914) | arXiv | 2025-11-01 | [Project](https://xuwenjie401.github.io/iFlyBot-VLA.github.io/) | |
 | [**Developing Vision-Language-Action Model from Egocentric Videos**](https://arxiv.org/abs/2509.21986) | arXiv | 2025-09-26 | - | |
+| [**CARE: Multi-Task Pretraining for Latent Continuous Action Representation in Robot Control**](https://arxiv.org/abs/2601.22467) | ICASSP 2026 | 2026-01-30 | - | |
 | [**Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance**](https://arxiv.org/abs/2509.02055) | arXiv | 2025-09-02 | ![Star](https://img.shields.io/github/stars/TeleHuman/Align-Then-Steer?style=social&label=Star) [Github](https://github.com/TeleHuman/Align-Then-Steer) | |
 | [**MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation**](https://arxiv.org/abs/2508.19236) | arXiv | 2025-08-26 | [Project](https://shihao1895.github.io/MemoryVLA/) | |
 | [**ViPRA: Video Prediction for Robot Actions**](https://arxiv.org/abs/2511.07732) | NeurIPS 2025 | 2025-11-11 | ![Star](https://img.shields.io/github/stars/sroutray/vipra?style=social&label=Star) [Github](https://github.com/sroutray/vipra) | |
@@ -870,6 +915,9 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _World Model_ |
+| [**World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy**](https://arxiv.org/abs/2602.06508) | arXiv | 2026-02-06 | ![Star](https://img.shields.io/github/stars/hiskiv/World-VLA-Loop-Code?style=social&label=Star) [Github](https://github.com/hiskiv/World-VLA-Loop-Code) |  |
+| [LingBot-VA: **Causal World Modeling for Robot Control**](https://arxiv.org/abs/2601.21998) | arXiv | 2026-01-29 | ![Star](https://img.shields.io/github/stars/robbyant/lingbot-va?style=social&label=Star) [Github](https://github.com/robbyant/lingbot-va) |  |
+| [**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**](https://arxiv.org/abs/2601.02456) | arXiv | 2026-01-05 | ![Star](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1?style=social&label=Star) [Github](https://github.com/InternRobotics/InternVLA-A1) |  |
 | [**STORM: Search-Guided Generative World Models for Robotic Manipulation**](https://arxiv.org/abs/2512.18477) | arXiv | 2025-12-20 | - |  |
 | [**CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion**](https://arxiv.org/abs/2512.16023) | arXiv | 2025-12-17 | - |  |
 | [**Motus: A Unified Latent Action World Model**](https://arxiv.org/abs/2512.13030) | arXiv | 2025-12-15 | ![Star](https://img.shields.io/github/stars/thu-ml/Motus?style=social&label=Star) [Github](https://github.com/thu-ml/Motus) |  |
@@ -877,7 +925,10 @@
 | [**RynnVLA-002: A Unified Vision-Language-Action and World Model**](https://arxiv.org/abs/2511.17502) | arXiv | 2025-11-21 | ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/RynnVLA-002?style=social&label=Star) [Github](https://github.com/alibaba-damo-academy/RynnVLA-002) |  |
 | [**WMPO: World Model-based Policy Optimization for Vision-Language-Action Models**](https://arxiv.org/abs/2511.09515) | arXiv | 2025-11-12 | ![Star](https://img.shields.io/github/stars/WM-PO/WMPO?style=social&label=Star) [Github](https://github.com/WM-PO/WMPO) |  |
 | [**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**](https://arxiv.org/abs/2510.27607) | arXiv | 2025-10-31 | - |  |
+| [**WorldVLA: Towards Autoregressive Action World Model**](https://arxiv.org/abs/2506.21539) | arXiv | 2025-06-26 | ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/RynnVLA-002?style=social&label=Star) [Github](https://github.com/alibaba-damo-academy/RynnVLA-002) |  |
 | _Visual/State Prediction_ |
+| [**Self-Supervised Bootstrapping of Action-Predictive Embodied Reasoning**](https://arxiv.org/abs/2602.08167) | arXiv | 2026-02-09 | - |  |
+| [**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**](https://arxiv.org/abs/2601.16163) | arXiv | 2026-01-22 | ![Star](https://img.shields.io/github/stars/nvlabs/cosmos-policy?style=social&label=Star) [Github](https://github.com/nvlabs/cosmos-policy) |  |
 | [**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**](https://arxiv.org/abs/2512.15692) | arXiv | 2025-12-17 | [Project](https://mimic-video.github.io/) |  |
 | [**Vidarc: Embodied Video Diffusion Model for Closed-loop Control**](https://arxiv.org/abs/2512.17661) | arXiv | 2025-12-19 | - |  |
 | [**VideoVLA: Video Generators Can Be Generalizable Robot Manipulators**](https://arxiv.org/abs/2512.06963) | arXiv | 2025-12-07 | [Project](https://videovla-nips2025.github.io/) |  |
@@ -891,6 +942,12 @@
 | [Seer: **Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**](https://arxiv.org/abs/2412.15109) | ICLR 2025 | 2024-12-19 | ![Star](https://img.shields.io/github/stars/OpenRobotLab/Seer?style=social&label=Star) [Github](https://github.com/OpenRobotLab/Seer/) | Image Prediction |
 | [DIARC‑OpenVLA: **Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**](https://arxiv.org/abs/2502.04558) | arXiv | 2025-02-06 | - | State Prediction |
 | _Text Goal Extraction_ |
+| [**Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning**](https://arxiv.org/abs/2602.07845) | arXiv | 2026-02-08 | ![Star](https://img.shields.io/github/stars/rd-vla/rd-vla?style=social&label=Star) [Github](https://github.com/rd-vla/rd-vla) |  |
+| [**StreamVLA: Breaking the Reason-Act Cycle via Completion-State Gating**](https://arxiv.org/abs/2602.01100) | arXiv | 2026-02-01 | - |  |
+| [**Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**](https://arxiv.org/abs/2602.01166) | arXiv | 2026-02-01 | ![Star](https://img.shields.io/github/stars/LoveJu1y/LaRA-VLA?style=social&label=Star) [Github](https://github.com/LoveJu1y/LaRA-VLA) |  |
+| [**ReViP: Reducing False Completion in Vision-Language-Action Models with Vision-Proprioception Rebalance**](https://arxiv.org/abs/2601.16667) | arXiv | 2026-01-23 | - |  |
+| [**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**](https://arxiv.org/abs/2601.09708) | arXiv | 2026-01-14 | [Project](https://jasper0314-huang.github.io/fast-thinkact/) |  |
+| [**Stable Language Guidance for Vision-Language-Action Models**](https://arxiv.org/abs/2601.04052) | arXiv | 2026-01-07 | - |  |
 | [**DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models**](https://arxiv.org/abs/2511.15669) | arXiv | 2025-11-31 | ![Star](https://img.shields.io/github/stars/wadeKeith/DeepThinkVLA?style=social&label=Star) [Github](https://github.com/wadeKeith/DeepThinkVLA) |  |
 | [**CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding**](https://arxiv.org/abs/2512.01022) | arXiv | 2025-11-30 | ![Star](https://img.shields.io/github/stars/OpenHelix-Team/HiF-VLA?style=social&label=Star) [Github](https://isee-laboratory.github.io/CycleManip/) |  |
 | [**MM-ACT: Learn from Multimodal Parallel Generation to Act**](https://arxiv.org/abs/2512.00975) | arXiv | 2025-11-30 | ![Star](https://img.shields.io/github/stars/HHYHRHY/MM-ACT?style=social&label=Star) [Github](https://github.com/HHYHRHY/MM-ACT) | |
@@ -903,9 +960,13 @@
 | [**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**](https://arxiv.org/abs/2505.11917) | arXiv | 2025-05-17 | ![Star](https://img.shields.io/github/stars/Fanqi-Lin/OneTwoVLA?style=social&label=Star) [Github](https://github.com/Fanqi-Lin/OneTwoVLA) | |
 | [**π<sub>0.5</sub>: a Vision-Language-Action Model with Open-World Generalization**](https://arxiv.org/abs/2504.16054) | CoRL 2025 | 2025-04-22 | [Project](https://www.pi.website/blog/pi05) |  |
 | [RAD: **Action-Free Reasoning for Policy Generalization**](https://arxiv.org/abs/2502.03729) | arXiv | 2025-02-06 | [Project](https://rad-generalization.github.io/) |  |
-| [**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**](https://arxiv.org/abs/2412.11974) | arXiv | 2024-12-16 | ![Star](https://img.shields.io/github/stars/declare-lab/Emma-X?style=social&label=Star) [Github](https://github.com/declare-lab/Emma-X) |  |
+| [**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**](https://arxiv.org/abs/2412.11974) | ACL 2025 | 2024-12-16 | ![Star](https://img.shields.io/github/stars/declare-lab/Emma-X?style=social&label=Star) [Github](https://github.com/declare-lab/Emma-X) |  |
 | [**RT-H: Action Hierarchies Using Language**](https://arxiv.org/abs/2403.01823) | RSS 2024 | 2024-03-04 | [Project](https://rt-hierarchy.github.io/) |  |
 | _Visual Goal Extraction_ |
+| [**Differentiate-and-Inject: Enhancing VLAs via Functional Differentiation Induced by In-Parameter Structural Reasoning**](https://arxiv.org/abs/2602.07541) | arXiv | 2026-02-07 | - |  |
+| [**VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models**](https://arxiv.org/abs/2602.05049) | arXiv | 2026-02-04 | [Project](https://vista-vla.github.io/) |  |
+| [**Action-Sketcher: From Reasoning to Action via Visual Sketches for Long-Horizon Robotic Manipulation**](https://arxiv.org/abs/2601.01618) | arXiv | 2026-01-04 | ![Star](https://img.shields.io/github/stars/FlagOpen/Action-Sketcher?style=social&label=Star) [Github](https://github.com/FlagOpen/Action-Sketcher) |  |
+| [**Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding**](https://arxiv.org/abs/2512.22519) | arXiv | 2025-12-27 | ![Star](https://img.shields.io/github/stars/UARK-AICV/OBEYED_VLA?style=social&label=Star) [Github](https://github.com/UARK-AICV/OBEYED_VLA) |  |
 | [**Robotic VLA Benefits from Joint Learning with Motion Image Diffusion**](https://arxiv.org/abs/2512.18007) | arXiv | 2025-12-19 | [Project](https://vla-motion.github.io/) |  |
 | [**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**](https://arxiv.org/abs/2512.08580) | arXiv | 2025-12-09 | [Project](https://www.astribot.com/en/research/Lumo1) |  |
 | [**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**](https://arxiv.org/abs/2512.09928) | arXiv | 2025-12-10 | ![Star](https://img.shields.io/github/stars/OpenHelix-Team/HiF-VLA?style=social&label=Star) [Github](https://github.com/OpenHelix-Team/HiF-VLA) |  |
@@ -920,7 +981,7 @@
 | [**Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control**](https://www.arxiv.org/abs/2508.05342) | arXiv | 2025-08-07 | - | Segmentation |
 | [**ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models**](https://arxiv.org/abs/2506.16211) | arXiv | 2025-06-19 | ![Star](https://img.shields.io/github/stars/ControlVLA/ControlVLA?style=social&label=Star) [Github](https://github.com/ControlVLA/ControlVLA) | Segmentation |
 | [ECoT-Lite: **Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/abs/2505.08243) | arXiv | 2025-05-13 | - | |
-| [**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**](https://arxiv.org/abs/2505.03233) | arXiv | 2025-05-06 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/GraspVLA?style=social&label=Star) [Github](https://github.com/PKU-EPIC/GraspVLA) |  |
+| [**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**](https://arxiv.org/abs/2505.03233) | CoRL 2025 | 2025-05-06 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/GraspVLA?style=social&label=Star) [Github](https://github.com/PKU-EPIC/GraspVLA) |  |
 | [**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**](https://arxiv.org/abs/2504.12636) | arXiv | 2025-04-17 | ![Star](https://img.shields.io/github/stars/A-embodied/A0?style=social&label=Star) [Github](https://github.com/A-embodied/A0) | Keypoints |
 | [**Focusing on What Matters: Object-Agent-centric Tokenization for Vision Language Action Models**](https://arxiv.org/abs/2509.23655) | CoRL 2025 | 2025-09-28 | - | Detection |
 | [**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**](https://arxiv.org/abs/2505.02166) | CVPR 2025 | 2025-05-04 | - | Contact Point, Visual Trace |
@@ -928,6 +989,8 @@
 | [ECoT: **Robotic Control via Embodied Chain-of-Thought Reasoning**](https://arxiv.org/abs/2407.08693) | CoRL 2024 | 2024-07-11 | ![Star](https://img.shields.io/github/stars/MichalZawalski/embodied-CoT?style=social&label=Star) [Github](https://github.com/MichalZawalski/embodied-CoT/) |  |
 | [**LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning**](https://arxiv.org/abs/2406.11815) | CoRL 2024 | 2024-06-17 | ![Star](https://img.shields.io/github/stars/Dantong88/LLARVA?style=social&label=Star) [Github](https://github.com/Dantong88/LLARVA) | Visual Trace |
 | [MOO: **Open-World Object Manipulation using Pre-trained Vision-Language Models**](https://arxiv.org/abs/2303.00905) | CoRL 2023 | 2023-03-02 | [Project](https://robot-moo.github.io/) | BBox |
+| _Action Goal_ |
+| [**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**](https://arxiv.org/abs/2601.11404) | arXiv | 2026-01-16 | - |  |
 | _Reconstruction_ |
 | [**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**](https://arxiv.org/abs/2509.26642) | arXiv | 2025-09-30 | [Project](https://sites.google.com/view/open-mla) | |
 | [**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**](https://arxiv.org/abs/2508.10333) | AAAI 2026 | 2025-08-23 | ![Star](https://img.shields.io/github/stars/Chowzy069/Reconvla?style=social&label=Star) [Github](https://github.com/Chowzy069/Reconvla) | |
@@ -971,6 +1034,13 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models**](https://arxiv.org/abs/2602.00780) | arXiv | 2026-01-31 | - | |
+| [**Learning to Accelerate Vision-Language-Action Models through Adaptive Visual Token Caching**](https://arxiv.org/abs/2602.00686) | arXiv | 2026-01-31 | ![Star](https://img.shields.io/github/stars/JiahanFan/LAC?style=social&label=Star) [Github](https://github.com/JiahanFan/LAC) | |
+| [**DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation**](https://arxiv.org/abs/2601.22153) | arXiv | 2026-01-29 | ![Star](https://img.shields.io/github/stars/hzxie/DynamicVLA?style=social&label=Star) [Github](https://github.com/hzxie/DynamicVLA) | |
+| [**Shallow-π: Knowledge Distillation for Flow-based VLAs**](https://arxiv.org/abs/2601.20262) | arXiv | 2026-01-28 | ![Star](https://img.shields.io/github/stars/icsl-Jeon/openpi?style=social&label=Star) [Github](https://github.com/icsl-Jeon/openpi) | |
+| [**AC<sup>2</sup>-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation**](https://arxiv.org/abs/2601.19634) | arXiv | 2026-01-27 | ![Star](https://img.shields.io/github/stars/SunnyYWD/AC-2-VLA?style=social&label=Star) [Github](https://github.com/SunnyYWD/AC-2-VLA) | |
+| [**DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models**](https://arxiv.org/abs/2601.16065) | arXiv | 2026-01-22 | - | |
+| [**VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots**](https://arxiv.org/abs/2512.24673) | arXiv | 2025-12-31 | - |  |
 | [**BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models**](https://arxiv.org/abs/2512.11769) | arXiv | 2025-12-12 | ![Star](https://img.shields.io/github/stars/JijiKing-Sam/BLURR-A-Boosted-Low-Resource-Inference-for-Vision-Language-Action-Model?style=social&label=Star) [Github](https://github.com/JijiKing-Sam/BLURR-A-Boosted-Low-Resource-Inference-for-Vision-Language-Action-Model) |  |
 | [**Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models**](https://arxiv.org/abs/2512.09927) | arXiv | 2025-12-10 | ![Star](https://img.shields.io/github/stars/Jasper-aaa/TEAM-VLA?style=social&label=Star) [Github](https://github.com/Jasper-aaa/TEAM-VLA) |  |
 | [**SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead**](https://arxiv.org/abs/2512.00903) | arXiv | 2025-11-30 | ![Star](https://img.shields.io/github/stars/GigaAI-research/SwiftVLA?style=social&label=Star) [Github](https://github.com/GigaAI-research/SwiftVLA) |  |
@@ -988,11 +1058,13 @@
 | [**Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation**](https://arxiv.org/abs/2509.22093) | arXiv | 2025-09-26 | - |  |
 | [**RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models**](https://arxiv.org/abs/2509.21243) | arXiv | 2025-09-25 | - |  |
 | [LightVLA: **The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**](https://arxiv.org/abs/2509.12594) | arXiv | 2025-09-16 | ![Star](https://img.shields.io/github/stars/LiAutoAD/LightVLA?style=social&label=Star) [Github](https://github.com/LiAutoAD/LightVLA) |  |
+| [**QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization**](https://arxiv.org/abs/2602.03782) | ICLR 2026 | 2026-02-03 | ![Star](https://img.shields.io/github/stars/AutoLab-SAI-SJTU/QVLA?style=social&label=Star) [Github](https://github.com/AutoLab-SAI-SJTU/QVLA) | |
+| [**Real-Time Robot Execution with Masked Action Chunking**](https://arxiv.org/abs/2601.20130) | ICLR 2026 | 2026-01-27 | ![Star](https://img.shields.io/github/stars/hatchetProject/REMAC?style=social&label=Star) [Github](https://github.com/hatchetProject/REMAC) | |
 | [**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**](https://arxiv.org/abs/2509.09372) | AAAI 2026 | 2025-09-11 | [Project](https://vla-adapter.github.io/) |  |
 | [**SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models**](https://arxiv.org/abs/2509.09090) | arXiv | 2025-09-11 | ![Star](https://img.shields.io/github/stars/ecdine/SQAP-VLA?style=social&label=Star) [Github](https://github.com/ecdine/SQAP-VLA) |  |
 | [**SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning**](https://arxiv.org/abs/2509.05614) | arXiv | 2025-09-06 | - |  |
 | [**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**](https://arxiv.org/abs/2508.21046) | NeurIPS 2025 | 2025-08-28 | ![Star](https://img.shields.io/github/stars/JiuTian-VL/CogVLA?style=social&label=Star) [Github](https://github.com/JiuTian-VL/CogVLA) |  |
-| [**TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models**](https://arxiv.org/abs/2508.19257) | arXiv | 2025-08-15 | - |  |
+| [**TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models**](https://arxiv.org/abs/2508.19257) | AAAI 2026 | 2025-08-15 | - |  |
 | [**FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models**](https://arxiv.org/abs/2511.16233) | AAAI 2026 | 2025-11-20 | - |  |
 | [**Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**](https://arxiv.org/abs/2507.22424) | arXiv | 2025-07-30 | - |  |
 | [**EdgeVLA: Efficient Vision-Language-Action Models**](https://arxiv.org/abs/2507.14049) | arXiv | 2025-07-18 | - | |
@@ -1021,6 +1093,12 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Action Hallucination in Generative Visual-Language-Action Models**](https://arxiv.org/abs/2602.06339) | arXiv | 2026-02-06 | - |  |
+| [**Improving Robustness of Vision-Language-Action Models by Restoring Corrupted Visual Inputs**](https://arxiv.org/abs/2602.011580) | arXiv | 2026-02-01 | - |  |
+| [**Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning**](https://arxiv.org/abs/2602.00500) | arXiv | 2026-01-31 | [Project](https://jianyi2004.github.io/infuse-vla-backdoor/) |  |
+| [**SilentDrift: Exploiting Action Chunking for Stealthy Backdoor Attacks on Vision-Language-Action Models**](https://arxiv.org/abs/2601.14323) | arXiv | 2026-01-20 | - |  |
+| [**State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space**](https://arxiv.org/abs/2601.04266) | arXiv | 2026-01-07 | - |  |
+| [**CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding**](https://arxiv.org/abs/2601.02295) | arXiv | 2026-01-05 | ![Star](https://img.shields.io/github/stars/dannymcy/cyclevla_code?style=social&label=Star) [Github](https://github.com/dannymcy/cyclevla_code) |  |
 | [**VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer**](https://arxiv.org/abs/2512.11891) | arXiv | 2025-12-09 | ![Star](https://img.shields.io/github/stars/THU-RCSCT/vlsa-aegis?style=social&label=Star) [Github](https://github.com/THU-RCSCT/vlsa-aegis) |  |
 | [**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**](https://arxiv.org/abs/2511.21663) | arXiv | 2025-11-26 | - |  |
 | [**When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models**](https://arxiv.org/abs/2511.21192) | arXiv | 2025-11-26 | - |  |
@@ -1033,6 +1111,8 @@
 | [**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**](https://arxiv.org/abs/2510.01642) | arXiv | 2025-10-02 | [Project](https://jimntu.github.io/FailSafe/) |  |
 | [**On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations**](https://arxiv.org/abs/2510.00037) | arXiv | 2025-09-26 | - |  |
 | [**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**](https://arxiv.org/abs/2509.19870) | arXiv | 2025-09-24 | ![Star](https://img.shields.io/github/stars/xinwong/FreezeVLA?style=social&label=Star) [Github](https://github.com/xinwong/FreezeVLA) |  |
+| [**When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens**](https://arxiv.org/abs/2602.03153) | ICRA 2026 | 2026-02-03 | - |  |
+| [**From Knowing to Doing Precisely: A General Self-Correction and Termination Framework for VLA models**](https://arxiv.org/abs/2602.01811) | ICASSP 2026 | 2026-02-02 | - |  |
 | [**FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction**](https://arxiv.org/abs/2509.04018) | arXiv | 2025-09-04 | [Project](https://fpcvla.github.io/) |  |
 | [**Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks**](https://arxiv.org/abs/2511.10008) | AAAI 2026 | 2025-11-13 | ![Star](https://img.shields.io/github/stars/ZJUshine/Phantom-Menace?style=social&label=Star) [Github](https://github.com/ZJUshine/Phantom-Menace) |  |
 | [**SAFE: Multitask Failure Detection for Vision-Language-Action Models**](https://arxiv.org/abs/2506.09937) | arXiv | 2025-06-11 | [Project](https://vla-safe.github.io/) | Failure Recovery |
@@ -1050,7 +1130,14 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| _Cross-Embodiment_|
+| [**Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization**](https://arxiv.org/abs/2601.12993) | arXiv | 2026-01-19 | ![Star](https://img.shields.io/github/stars/BeingBeyond/Being-H?style=social&label=Star) [Github](https://github.com/BeingBeyond/Being-H) | |
+| [**Emergence of Human to Robot Transfer in Vision-Language-Action Models**](https://arxiv.org/abs/2512.22414) | arXiv | 2025-12-27 | - |  |
+| [**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**](https://arxiv.org/abs/2512.05693) | arXiv | 2025-12-05 | ![Star](https://img.shields.io/github/stars/ZhiyingDu/HiMoE-VLA?style=social&label=Star) [Github](https://github.com/ZhiyingDu/HiMoE-VLA) |  |
 | _Long-horizon_|
+| [**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**](https://arxiv.org/abs/2602.09849) | arXiv | 2026-02-10 | [Project](https://cladernyjorn.github.io/BagelVLA.github.io/) | |
+| [**Efficient Long-Horizon Vision-Language-Action Models via Static-Dynamic Disentanglement**](https://arxiv.org/abs/2602.03983) | arXiv | 2026-02-03 | - | |
+| [**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**](https://arxiv.org/abs/2601.07060) | arXiv | 2026-01-11 | - | |
 | [**ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation**](https://arxiv.org/abs/2512.02013) | arXiv | 2025-12-01 | [Project](https://sites.google.com/view/maunalvla/) | |
 | [**EvoVLA: Self-Evolving Vision-Language-Action Model**](https://arxiv.org/abs/2511.16166) | arXiv | 2025-11-20 | ![Star](https://img.shields.io/github/stars/AIGeeksGroup/EvoVLA?style=social&label=Star) [Github](https://github.com/AIGeeksGroup/EvoVLA) | |
 | [**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**](https://arxiv.org/abs/2509.14138) | arXiv | 2025-09-17 | - | |
@@ -1059,15 +1146,20 @@
 | [**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**](https://arxiv.org/abs/2508.19958) | CoRL 2025 | 2025-08-27 | [Project](https://long-vla.github.io/) | |
 | [**Long‑Horizon Language‑Conditioned Imitation Learning for Robotic Manipulation**](https://ieeexplore.ieee.org/abstract/document/10934975/) | TMECH 2025 | 2025-03-20 | - | Partially labeled data |
 | _Continue Learning_ |
+| [**CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion**](https://arxiv.org/abs/2601.09512) | arXiv | 2026-01-14 | ![Star](https://img.shields.io/github/stars/utiasDSL/clare?style=social&label=Star) [Github](https://github.com/utiasDSL/clare) |  |
 | [**Continually Evolving Skill Knowledge in Vision Language Action Model**](https://arxiv.org/abs/2511.18085) | arXiv | 2025-11-22 | - |  |
 | _Few-shot Learning_ |
+| [**VGAS: Value-Guided Action-Chunk Selection for Few-Shot Vision-Language-Action Adaptation**](https://arxiv.org/abs/2602.07399) | arXiv | 2026-02-07 | ![Star](https://img.shields.io/github/stars/Jyugo-15/VGAS?style=social&label=Star) [Github](https://github.com/Jyugo-15/VGAS) |  |
 | [**Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations**](https://arxiv.org/abs/2511.22697) | arXiv | 2025-11-27 | [Project](https://chancharikmitra.github.io/robosteering/) |  |
 | _Meta Learning_ |
 | [**MoS-VLA: A Vision-Language-Action Model with One-Shot Skill Adaptation**](https://arxiv.org/abs/2510.16617) | arXiv | 2025-10-18 | ![Star](https://img.shields.io/github/stars/PhilipZRH/mos-vla?style=social&label=Star) [Github](https://github.com/PhilipZRH/mos-vla) |  |
 | [**MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption**](https://arxiv.org/abs/2510.05580) | arXiv | 2025-10-07 | - |  |
 | _Test-time Adaptation_ |
+| [**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**](https://arxiv.org/abs/2601.06748) | arXiv | 2026-01-11 | - |  |
 | [**EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models**](https://arxiv.org/abs/2512.14666) | arXiv | 2025-12-16 | ![Star](https://img.shields.io/github/stars/showlab/EVOLVE-VLA?style=social&label=Star) [Github](https://github.com/showlab/EVOLVE-VLA) |  |
 | [**See Once, Then Act: Vision-Language-Action Model with Task Learning from One-Shot Video Demonstrations**](https://arxiv.org/abs/2512.07582) | arXiv | 2025-12-08 | - |  |
+| _Long-tail_ |
+| [**Beyond the Majority: Long-tail Imitation Learning for Robotic Manipulation**](https://arxiv.org/abs/2602.06512) | ICRA 2026 | 2026-02-06 | ![Star](https://img.shields.io/github/stars/MLDXY/VLA-long-tail?style=social&label=Star) [Github](https://github.com/MLDXY/VLA-long-tail) |  |
 | _Environment Changes_ |
 | [**VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling**](https://arxiv.org/abs/2512.02902) | arXiv | 2025-12-02 | - |  |
 
@@ -1078,6 +1170,13 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning**](https://arxiv.org/abs/2602.04315) | arXiv | 2026-02-04 | ![Star](https://img.shields.io/github/stars/AIGeeksGroup/GeneralVLA?style=social&label=Star) [Github](https://github.com/AIGeeksGroup/GeneralVLA) | |
+| [**Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds**](https://arxiv.org/abs/2602.00807) | arXiv | 2026-01-31 | ![Star](https://img.shields.io/github/stars/XianzheFan/Any3D-VLA?style=social&label=Star) [Github](https://github.com/XianzheFan/Any3D-VLA) | |
+| [**A Pragmatic VLA Foundation Model**](https://arxiv.org/abs/2601.18692) | arXiv | 2026-01-26 | ![Star](https://img.shields.io/github/stars/robbyant/lingbot-vla?style=social&label=Star) [Github](https://github.com/robbyant/lingbot-vla) | |
+| [**PEAfowl: Perception-Enhanced Multi-View Vision-Language-Action for Bimanual Manipulation**](https://arxiv.org/abs/2601.17885) | arXiv | 2026-01-25 | ![Star](https://img.shields.io/github/stars/kianyale/PEAfowl?style=social&label=Star) [Github](https://github.com/kianyale/PEAfowl) |  |
+| [**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**](https://arxiv.org/abs/2601.08325) | arXiv | 2026-01-13 | ![Star](https://img.shields.io/github/stars/ZhenyangLiu/ActiveVLA-Injecting-Active-Perception-into-VLA?style=social&label=Star) [Github](https://github.com/ZhenyangLiu/ActiveVLA-Injecting-Active-Perception-into-VLA) |  |
+| [**LaST<sub>0</sub>: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**](https://arxiv.org/abs/2601.05248) | arXiv | 2026-01-08 | [Project](https://vla-last0.github.io/) |  |
+| [**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**](https://arxiv.org/abs/2512.21970) | arXiv | 2025-12-26 | ![Star](https://img.shields.io/github/stars/shengliangd/StereoVLA?style=social&label=Star) [Github](https://github.com/shengliangd/StereoVLA) |  |
 | [**GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation**](https://arxiv.org/abs/2512.16811) | arXiv | 2025-12-18 | ![Star](https://img.shields.io/github/stars/jingjingqian75/GeoPredict?style=social&label=Star) [Github](https://github.com/jingjingqian75/GeoPredict) |  |
 | [**VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation**](https://arxiv.org/abs/2512.16724) | RA-L 2025 | 2025-12-18 | [Project](https://verm-ral.github.io/) |  |
 | [**Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos**](https://arxiv.org/abs/2512.13080) | arXiv | 2025-12-15 | ![Star](https://img.shields.io/github/stars/BeingBeyond/VIPA-VLA?style=social&label=Star) [Github](https://github.com/BeingBeyond/VIPA-VLA) |  |
@@ -1089,7 +1188,7 @@
 | [**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**](https://arxiv.org/abs/2510.17439) | arXiv | 2025-10-20 | [Project](https://falcon-vla.github.io/) |  |
 | [**QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models**](https://arxiv.org/abs/2510.14836) | arXiv | 2025-10-16 | - |  |
 | [**DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning**](https://arxiv.org/abs/2510.13375) | arXiv | 2025-10-15 | - |  |
-| [**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**](https://arxiv.org/abs/2510.12276) | arXiv | 2025-10-14 | ![Star](https://img.shields.io/github/stars/OpenHelix-Team/Spatial-Forcing?style=social&label=Star) [Github](https://github.com/OpenHelix-Team/Spatial-Forcing) |  |
+| [**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**](https://arxiv.org/abs/2510.12276) | ICLR 2026 | 2025-10-14 | ![Star](https://img.shields.io/github/stars/OpenHelix-Team/Spatial-Forcing?style=social&label=Star) [Github](https://github.com/OpenHelix-Team/Spatial-Forcing) |  |
 | [**Large Pre-Trained Models for Bimanual Manipulation in 3D**](https://arxiv.org/abs/2509.20579) | Humanoids 2025 | 2025-09-24 | - |  |
 | [**GP3: A 3D Geometry-Aware Policy with Multi-View Images for Robotic Manipulation**](https://arxiv.org/abs/2509.15733) | arXiv | 2025-09-19 | - |  |
 | [**Eva-VLA: Evaluating Vision-Language-Action Models's Robustness Under Real-World Physical Variations**](https://arxiv.org/abs/2509.18953) | arXiv | 2025-09-23 | [Project](https://fpcvla.github.io/) |  |
@@ -1119,6 +1218,10 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Rethinking Visual-Language-Action Model Scaling: Alignment, Mixture, and Regularization**](https://arxiv.org/abs/2602.09722) | arXiv | 2026-02-10 | ![Star](https://img.shields.io/github/stars/BeingBeyond/Rethink_VLA?style=social&label=Star) [Github](https://github.com/BeingBeyond/Rethink_VLA) | |
+| [**RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI**](https://arxiv.org/abs/2602.07837) | arXiv | 2026-02-08 | ![Star](https://img.shields.io/github/stars/RLinf/RLinf?style=social&label=Star) [Github](https://github.com/RLinf/RLinf) | |
+| [**A Systematic Study of Data Modalities and Strategies for Co-training Large Behavior Models for Robot Manipulation**](https://arxiv.org/abs/2602.01067) | arXiv | 2026-02-01 | [Project](https://co-training-lbm.github.io/) | |
+| [**VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models**](https://arxiv.org/abs/2601.03309) | arXiv | 2026-01-06 | ![Star](https://img.shields.io/github/stars/CladernyJorn/VLM4VLA?style=social&label=Star) [Github](https://github.com/CladernyJorn/VLM4VLA) | |
 | [**Distracted Robot: How Visual Clutter Undermine Robotic Manipulation**](https://arxiv.org/abs/2511.22780) | arXiv | 2025-11-27 | - | |
 | [**How Do VLAs Effe ctively Inherit from VLMs?**](https://arxiv.org/abs/2511.06619) | arXiv | 2025-11-10 | - | |
 | [**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**](https://arxiv.org/abs/2511.04665) | arXiv | 2025-11-06 | ![Star](https://img.shields.io/github/stars/kywind/real2sim-eval?style=social&label=Star) [Github](https://github.com/kywind/real2sim-eval) | |
@@ -1161,6 +1264,7 @@
 | [**Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**](https://arxiv.org/abs/2507.15062) | RSSW 2025 | 2025-07-20 | ![Star](https://img.shields.io/github/stars/YolandaXinyueZhu/touch_in_the_wild?style=social&label=Star) [Github](https://github.com/YolandaXinyueZhu/touch_in_the_wild) |  |
 | [**Digitizing Touch with an Artificial Multimodal Fingertip**](https://arxiv.org/abs/2411.02479) | arXiv | 2024-11-04 | ![Star](https://img.shields.io/github/stars/facebookresearch/digit360?style=social&label=Star) [Github](https://github.com/facebookresearch/digit360) | Tactile 
 | _Pretrianed Latent Learning_ |
+| [**UniForce: A Unified Latent Force Model for Robot Manipulation with Diverse Tactile Sensors**](https://arxiv.org/abs/2602.01153) | arXiv | 2026-02-01 | - |
 | [**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**](https://arxiv.org/abs/2512.21233) | arXiv | 2025-12-24 | [Project](https://beingbeyond.github.io/UniTacHand/) |
 | [**Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation**](https://arxiv.org/abs/2512.09851) | arXiv | 2025-12-10 | ![Star](https://img.shields.io/github/stars/YuyangLee/TacThru?style=social&label=Star) [Github](https://github.com/YuyangLee/TacThru) |
 | [**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**](https://arxiv.org/abs/2505.08194) | arXiv | 2025-05-13 | [Project](https://sites.google.com/view/cltp/) |
@@ -1194,6 +1298,8 @@
 | _TLAA_ |
 | [**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**](https://arxiv.org/abs/2501.04693) | arXiv | 2025-01-08 | ![Star](https://img.shields.io/github/stars/fuse-model/FuSe?style=social&label=Star) [Github](https://github.com/fuse-model/FuSe) |
 | _TVLA_ |
+| [**TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation**](https://arxiv.org/abs/2512.23864) | arXiv | 2026-01-28 | [Project](https://peilin-666.github.io/projects/TaF_VLA/) | |
+| [**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**](https://arxiv.org/abs/2512.23864) | arXiv | 2025-12-29 | - | |
 | [**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**](https://arxiv.org/abs/2508.08706) | arXiv | 2025-08-23 | - | |
 | [**VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback**](https://arxiv.org/abs/2507.17294) | arXiv | 2025-07-23 | ![Star](https://img.shields.io/github/stars/jxbi1010/VLA-Touch?style=social&label=Star) [Github](https://github.com/jxbi1010/VLA-Touch) | |
 | [**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**](https://arxiv.org/abs/2507.09160) | arXiv | 2025-07-12 | - | |
@@ -1242,8 +1348,11 @@
 | _Joint_ |
 | [**Redundancy-aware Action Spaces for Robot Learning**](https://arxiv.org/abs/2406.04144) | arXiv | 2024-06-06 | ![Star](https://img.shields.io/github/stars/mazpie/redundancy-action-spaces?style=social&label=Star) [Github](https://github.com/mazpie/redundancy-action-spaces) | |
 | _Force_ |
-| [**FTACT: Force Torque aware Action Chunking Transformer for Pick-and-Reorient Bottle Task**](https://arxiv.org/abs/2509.23112) | arXIv | 2025-09-27 | - | |
-| [**FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks**](https://arxiv.org/abs/2509.17053) | arXIv | 2025-09-21 | ![Star](https://img.shields.io/github/stars/TATP-233/FILIC?style=social&label=Star) [Github](https://github.com/TATP-233/FILIC) | |
+| [**FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation**](https://arxiv.org/abs/2602.02142) | arXiv | 2026-02-02 | - | |
+| [**CulinaryCut-VLAP: A Vision-Language-Action-Physics Framework for Food Cutting via a Force-Aware Material Point Method**](https://arxiv.org/abs/2601.06451) | arXiv | 2026-01-10 | - | |
+| [**UNIC: Learning Unified Multimodal Extrinsic Contact Estimation**](https://arxiv.org/abs/2601.04356) | arXiv | 2026-01-07 | - | |
+| [**FTACT: Force Torque aware Action Chunking Transformer for Pick-and-Reorient Bottle Task**](https://arxiv.org/abs/2509.23112) | arXiv | 2025-09-27 | - | |
+| [**FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks**](https://arxiv.org/abs/2509.17053) | arXiv | 2025-09-21 | ![Star](https://img.shields.io/github/stars/TATP-233/FILIC?style=social&label=Star) [Github](https://github.com/TATP-233/FILIC) | |
 | [**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**](https://arxiv.org/abs/2509.07962) | CoRL 2025 | 2025-09-09 | [Project](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/) | |
 | [**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**](https://arxiv.org/abs/2505.22159) | arXiv | 2025-05-28 | [Project](https://sites.google.com/view/forcevla2025) | |
 | [**FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation**](https://arxiv.org/abs/2411.15753) | RA-L 2025 | 2024-11-24 | ![Star](https://img.shields.io/github/stars/Alan-Heoooh/FoAR?style=social&label=Star) [Github](https://github.com/Alan-Heoooh/FoAR) |
@@ -1264,8 +1373,11 @@
 ### Pretrained Latent Learning
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**CLAMP: Contrastive Learning f  or 3D Multi-View Action-Conditioned Robotic Manipulation Pretraining**](https://arxiv.org/abs/2602.00937) | arXiv | 2026-01-31 | -| |
+| [**Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation**](https://arxiv.org/abs/2601.21416) | arXiv | 2026-01-29 | -| |
 | [**Attentive Feature Aggregation or: How Policies Learn to Stop Worrying about Robustness and Attend to Task-Relevant Visual Cues**](https://arxiv.org/abs/2511.10762) | arXiv | 2025-11-13 | ![Star](https://img.shields.io/github/stars/tsagkas/pvrobo?style=social&label=Star) [Github](https://github.com/tsagkas/pvrobo) | |
 | [**VER: Vision Expert Transformer for Robot Learning via Foundation Distillation and Dynamic Routing**](https://arxiv.org/abs/2510.05213) | arXiv | 2025-10-06 | ![Star](https://img.shields.io/github/stars/YixiaoWang7/ver?style=social&label=Star) [Github](https://github.com/YixiaoWang7/ver) | |
+| [**Capturing Visual Environment Structure Correlates with Control Performance**](https://arxiv.org/abs/2602.04880) | ICLR 2026 | 2026-02-04 | [Project](https://dongjiahua.github.io/CVESC/) | |
 | [**Token Bottleneck: One Token to Remember Dynamics**](https://arxiv.org/abs/2507.06543) | arXiv | 2025-07-09 | ![Star](https://img.shields.io/github/stars/naver-ai/tobo?style=social&label=Star) [Github](https://github.com/naver-ai/tobo) | |
 | [**PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF**](https://arxiv.org/abs/2508.07945) | Humanoids 2025 | 2025-08-11 | [Project](https://hsp-iit.github.io/PCHands/) |  |
 | [**EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**](https://arxiv.org/abs/2505.10105) | arXiv | 2025-05-15 | - |  |
@@ -1345,6 +1457,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| _Mapping_ |
+| [**STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction**](https://arxiv.org/abs/2602.08245) | arXiv | 2026-02-09 | - | |
 | _Autoregressive-based Policy_ |
 | [**Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization**](https://arxiv.org/abs/2506.06196) | arXiv | 2025-06-06 | [Project](https://mid-level-moe.github.io/) | |
 | [**Dense Policy: Bidirectional Autoregressive Learning of Actions**](https://arxiv.org/abs/2503.13217) | ICCV 2025 | 2025-03-17 | ![Star](https://img.shields.io/github/stars/Selen-Suyue/DensePolicy?style=social&label=Star) [Github](https://github.com/Selen-Suyue/DensePolicy) | |
@@ -1352,6 +1466,7 @@
 | [**Autoregressive Action Sequence Learning for Robotic Manipulation**](https://arxiv.org/abs/2410.03132) | RA-L 2025 | 2024-10-04 | ![Star](https://img.shields.io/github/stars/mlzxy/arp?style=social&label=Star) [Github](https://github.com/mlzxy/arp) | |
 | [**Transformer Adapters for Robot Learning**](https://openreview.net/forum?id=H--wvRYBmF) | CoRLW 2022 | 2022-11-17 | - | |
 | _ACT-based Policy_ | 
+| [**ConceptACT: Episode-Level Concepts for Sample-Efficient Robotic Imitation Learning**](https://arxiv.org/abs/2601.17135) | arXiv | 2026-01-23 | - | |
 | [**Training-Time Action Conditioning for Efficient Real-Time Chunking**](https://arxiv.org/abs/2512.05964) | arXiv | 2025-12-05 | - | |
 | [**PerFACT: Motion Policy with LLM-Powered Dataset Synthesis and Fusion Action-Chunking Transformers**](https://arxiv.org/abs/2512.03444) | arXiv | 2025-12-02 | - | |
 | [**Mixture of Horizons in Action Chunking**](https://arxiv.org/abs/2511.19433) | arXiv | 2025-11-24 | ![Star](https://img.shields.io/github/stars/Timsty1/MixtureOfHorizons?style=social&label=Star) [Github](https://github.com/Timsty1/MixtureOfHorizons) | |
@@ -1377,6 +1492,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _2D_ |
+| [**Skill-Aware Diffusion for Generalizable Robotic Manipulation**](https://arxiv.org/abs/2601.11266) | arXiv | 2026-01-16 | [Project](https://sites.google.com/view/sa-diff/) | |
 | [**Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks**](https://arxiv.org/abs/2512.07697) | arXiv | 2025-12-08 | [Project](https://dadpicra2026.github.io/) | |
 | [**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**](https://arxiv.org/abs/2512.03044) | arXiv | 2025-12-02 | ![Star](https://img.shields.io/github/stars/jiayueru/Video2Act?style=social&label=Star) [Github](https://github.com/jiayueru/Video2Act) | |
 | [**Much Ado About Noising: Dispelling the Myths of Generative Robotic Control**](https://arxiv.org/abs/2512.01809) | arXiv | 2025-12-01 | ![Star](https://img.shields.io/github/stars/simchowitzlabpublic/much-ado-about-noising?style=social&label=Star) [Github](https://github.com/simchowitzlabpublic/much-ado-about-noising) | |
@@ -1386,9 +1502,11 @@
 | [**Exploring Conditions for Diffusion models in Robotic Control**](https://arxiv.org/abs/2510.15510) | arXiv | 2025-10-17 | [Project](https://orca-rc.github.io/) | |
 | [**How Well do Diffusion Policies Learn Kinematic Constraint Manifolds?**](https://arxiv.org/abs/2510.01404) | arXiv | 2025-10-01 | [Project](https://diffusion-learns-kinematic.github.io/) | |
 | [**U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation**](https://arxiv.org/abs/2509.24579) | arXiv | 2025-09-29 | - | |
+| [**Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies**](https://arxiv.org/abs/2601.21251) | ICLR 2026 | 2026-01-29 | - | |
 | [**From Code to Action: Hierarchical Learning of Diffusion-VLM Policies**](https://arxiv.org/abs/2509.24917) | CoRLW 2025 | 2025-09-29 | - | |
 | [**MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies**](https://arxiv.org/abs/2509.14159) | arXiv | 2025-09-17 | - | |
 | [**Inference-stage Adaptation-projection Strategy Adapts Diffusion Policy to Cross-manipulators Scenarios**](https://arxiv.org/abs/2509.11621) | arXiv | 2025-09-15 | - | |
+| [**Learning Diffusion Policy from Primitive Skills for Robot Manipulation**](https://arxiv.org/abs/2601.01948) | AAAI 2026 | 2026-01-05 | - | |
 | [**Self-Guided Action Diffusion**](https://arxiv.org/abs/2508.12189) | arXiv | 2025-08-17 | ![Star](https://img.shields.io/github/stars/rhea-mal/guided_bid?style=social&label=Star) [Github](https://github.com/rhea-mal/guided_bid) | |
 | [**Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning**](https://arxiv.org/abs/2507.05695) | arXiv | 2025-06-24 | - | |
 | [**Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation**](https://arxiv.org/abs/2505.09144) | arXiv | 2025-05-14 | [Project](https://stanfordmsl.github.io/LatentToM/) | |
@@ -1427,6 +1545,8 @@
 | [BESO: **Goal-Conditioned Imitation Learning using Score-based Diffusion Policies**](https://arxiv.org/abs/2304.02532) | RSS 2023 | 2023-04-05 | ![Star](https://img.shields.io/github/stars/intuitive-robots/beso?style=social&label=Star) [Github](https://github.com/intuitive-robots/beso) |  |
 | [**Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**](https://arxiv.org/abs/2303.04137) | RSS 2023 | 2023-03-07 | ![Star](https://img.shields.io/github/stars/real-stanford/diffusion_policy?style=social&label=Star) [Github](https://github.com/real-stanford/diffusion_policy) |  |
 | _3D_ |
+| [**PocketDP3: Efficient Pocket-Scale 3D Visuomotor Policy**](https://arxiv.org/abs/2601.22018) | arXiv | 2026-01-29 | ![Star](https://img.shields.io/github/stars/jhz1192/PocketDP3?style=social&label=Star) [Github](https://github.com/jhz1192/PocketDP3) |  |
+| [**ForeDiffusion: Foresight-Conditioned Diffusion Policy via Future View Construction for Robot Manipulation**](https://arxiv.org/abs/2601.12925) | arXiv | 2026-01-19 | ![Star](https://img.shields.io/github/stars/xwz-z/ForeDiffusion?style=social&label=Star) [Github](https://github.com/xwz-z/ForeDiffusion) |  |
 | [**Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation**](https://arxiv.org/abs/2512.07212) | arXiv | 2025-12-08 | - |  |
 | [**Visual-Geometry Diffusion Policy: Robust Generalization via Complementarity-Aware Multimodal Fusion**](https://arxiv.org/abs/2511.22445) | arXiv | 2025-11-27 | - |  |
 | [**Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation**](https://arxiv.org/abs/2512.17568) | arXiv | 2025-12-19 | [Project](https://kinematics-aware-diffusion-policy.github.io/) |  |
@@ -1467,6 +1587,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**KAN We Flow? Advancing Robotic Manipulation with 3D Flow Matching via KAN & RWKV**](https://arxiv.org/abs/2602.01115) | arXiv | 2026-02-01 | - | |
+| [**CoLA-Flow Policy: Temporally Coherent Imitation Learning via Continuous Latent Action Flow Matching for Robotic Manipulation**](https://arxiv.org/abs/2601.23087) | arXiv | 2026-01-30 | - | |
 | [**OMP: One-step Meanflow Policy with Directional Alignment**](https://arxiv.org/abs/2512.19347) | arXiv | 2025-12-22 | - | |
 | [**DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models**](https://arxiv.org/abs/2512.01715) | arXiv | 2025-12-01 | ![Star](https://img.shields.io/github/stars/BeingBeyond/DiG-Flow?style=social&label=Star) [Github](https://github.com/BeingBeyond/DiG-Flow) | |
 | [**L1 Sample Flow for Efficient Visuomotor Learning**](https://arxiv.org/abs/2511.17898) | arXiv | 2025-11-22 | ![Star](https://img.shields.io/github/stars/THyanNK/L1Flow?style=social&label=Star) [Github](https://github.com/THyanNK/L1Flow) | |
@@ -1518,7 +1640,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-| [**SINRL: Socially Integrated Navigation with Reinforcement Learning using Spiking Neural Networks**](https://arxiv.org/abs/2512.07266) | RA-L 2025 | 2025-12-08 | ![Star](https://img.shields.io/github/stars/ZainZh/PRISM?style=social&label=Star) [Github](https://github.com/ZainZh/PRISM)| |
+| [**A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control**](https://arxiv.org/abs/2601.14628) | arXiv | 2026-01-21 | - | |
+| [**SINRL: Socially Integrated Navigation with Reinforcement Learning using Spiking Neural Networks**](https://arxiv.org/abs/2512.07266) | RA-L 2025 | 2025-12-08 | ![Star](https://img.shields.io/github/stars/ZainZh/PRISM?style=social&label=Star) [Github](https://github.com/ZainZh/PRISM) | |
 | [**Population-Coded Spiking Neural Networks for High-Dimensional Robotic Control**](https://arxiv.org/abs/2510.10516) | arXiv | 2025-10-12 | - | |
 | [**Fully Spiking Actor-Critic Neural Network for Robotic Manipulation**](https://arxiv.org/abs/2508.12038) | arXiv | 2025-08-16 | - | |
 | [**Multimodal Spiking Neural Network for Space Robotic Manipulation**](https://arxiv.org/abs/2508.07287) | arXiv | 2025-08-10 | ![Star](https://img.shields.io/github/stars/mazpie/redundancy-action-spaces?style=social&label=Star) [Github](https://github.com/mazpie/redundancy-action-spaces) | |
@@ -1546,6 +1669,10 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| _Action Tokenizer_ |
+| [**Mimic Intent, Not Just Trajectories**](https://arxiv.org/abs/2602.08602) | arXiv | 2026-02-09 | - |  |
+| [**OAT: Ordered Action Tokenization**](https://arxiv.org/abs/2602.04215) | arXiv | 2026-02-04 | ![Star](https://img.shields.io/github/stars/Chaoqi-LIU/oat?style=social&label=Star) [Github](https://github.com/Chaoqi-LIU/oat) |  |
+| [**FAST: Efficient Action Tokenization for Vision-Language-Action Models**](https://arxiv.org/abs/2501.09747) | arXiv | 2025-01-16 | [Project](https://www.pi.website/research/fast) |  |
 | _LLM-based Policy_ |
 | [**Semantic World Models**](https://arxiv.org/abs/2510.19818) | arXiv | 2025-10-22 | [Project](https://weirdlabuw.github.io/swm/) | |
 | _Energy-based Policy_ |

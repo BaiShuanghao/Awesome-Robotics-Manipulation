@@ -63,6 +63,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Grasp in Cluttered Scenes_ |
+| [**MultiGraspNet: A Multitask 3D Vision Model for Multi-gripper Robotic Grasping**](https://arxiv.org/abs/2602.06504) | arXiv | 2026-02-06 | - |  |
 | [**Single-View Shape Completion for Robotic Grasping in Clutter**](https://arxiv.org/abs/2512.16449) | arXiv | 2025-12-18 | [Project](https://amm.aass.oru.se/shape-completion-grasping/) |  |
 | [**SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams**](https://arxiv.org/abs/2510.10602) | arXiv | 2025-10-12 | - |  |
 | [**GraspView: Active Perception Scoring and Best-View Optimization for Robotic Grasping in Cluttered Environments**](https://arxiv.org/abs/2511.04199) | arXiv | 2025-11-06 | - |  |
@@ -84,6 +85,7 @@
 | [**GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf) | CVPR 2020 | 2020-08-05 | ![Star](https://img.shields.io/github/stars/graspnet/graspnet-baseline?style=social&label=Star) [Github](https://github.com/graspnet/graspnet-baseline) | Scene-level |
 | [**6-DOF Grasping for Target-driven Object Manipulation in Clutter**](https://arxiv.org/abs/1912.03628) | ICRA 2020 | 2019-12-08 | - | |
 | _Grasp in Uncluttered Scenes_ |
+| [**A General One-Shot Multimodal Active Perception Framework for Robotic Manipulation: Learning to Predict Optimal Viewpoint**](https://arxiv.org/abs/2601.13639) | arXiv | 2026-01-20 | [Project](https://nkrobotlab.github.io/MVPNet/) |  |
 | [**DAGDiff: Guiding Dual-Arm Grasp Diffusion to Stable and Collision-Free Grasps**](https://arxiv.org/abs/2509.21145) | arXiv | 2024-09-25 | [Project](https://dag-diff.github.io/dagdiff/) |  |
 | [**EquiGraspFlow: SE(3)-Equivariant 6-DoF Grasp Pose Generative Flows**](https://openreview.net/pdf?id=5lSkn5v4LK) | CoRL 2024 | 2024-09-06 | ![Star](https://img.shields.io/github/stars/bdlim99/EquiGraspFlow?style=social&label=Star) [Github](https://github.com/bdlim99/EquiGraspFlow) | Equivariance |
 | [FlexLoG: **Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping**](https://arxiv.org/abs/2403.15054) | PR 2025 | 2024-03-22 | - | Target-oriented |
@@ -110,6 +112,7 @@
 | [LERF-TOGO: **Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**](https://arxiv.org/abs/2309.07970) | CoRL 2023 | 2023-09-14 | ![Star](https://img.shields.io/github/stars/lerftogo/lerftogo?style=social&label=Star) [Github](https://github.com/lerftogo/lerftogo) | LERF |
 | [**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**](https://arxiv.org/abs/2210.06575) | ICRA 2023 | 2022-10-12 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/GraspNeRF?style=social&label=Star) [Github](https://github.com/PKU-EPIC/GraspNeRF) | |
 | _3D Gaussian Splatting (3DGS)_ |
+| [**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**](https://arxiv.org/abs/2602.08266) | ICRA 2026 | 2026-02-09 | - | |
 | [**UnPose: Uncertainty-Guided Diffusion Priors for Zero-Shot Pose Estimation**](https://arxiv.org/abs/2508.15972) | CoRL 2025 | 2025-08-21 | [Project](https://frankzhaodong.github.io/UnPose/) | |
 | [**SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images**](https://arxiv.org/abs/2412.02140) | arXiv | 2024-12-03 | - | |
 | [**GraspSplats: Efficient Manipulation with 3D Feature Splatting**](https://arxiv.org/abs/2409.02084) | CoRL 2024 | 2024-09-03 | ![Star](https://img.shields.io/github/stars/jimazeyu/GraspSplats?style=social&label=Star) [Github](https://github.com/jimazeyu/GraspSplats) | |
@@ -123,11 +126,13 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**AffordanceGrasp-R1:Leveraging Reasoning-Based Affordance Segmentation with Reinforcement Learning for Robotic Grasping**](https://arxiv.org/abs/2602.03547) | arXiv | 2026-02-03 | - | |
 | [**ManiAgent: An Agentic Framework for General Robotic Manipulation**](https://arxiv.org/pdf/2510.11660) | arXiv | 2025-10-13 | ![Star](https://img.shields.io/github/stars/yi-yang929/mani-agent?style=social&label=Star) [Github](https://github.com/yi-yang929/mani-agent) | |
 | [**VCoT-Grasp: Grasp Foundation Models with Visual Chain-of-Thought Reasoning for Language-driven Grasp Generation**](https://arxiv.org/abs/2510.05827) | arXiv | 2025-10-07 | arXiv | ![Star](https://img.shields.io/github/stars/zhanghr2001/VCoT-Grasp?style=social&label=Star) [Github](https://github.com/zhanghr2001/VCoT-Grasp) |
 | [**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**](https://arxiv.org/abs/2510.02104) | arXiv | 2025-10-02 | arXiv | ![Star](https://img.shields.io/github/stars/wu467/LangGrasp?style=social&label=Star) [Github](https://github.com/wu467/LangGrasp) |
 | [**ImaginationPolicy: Towards Generalizable, Precise and Reliable End-to-End Policy for Robotic Manipulation**](https://arxiv.org/abs/2509.20841) | arXiv | 2025-09-25 | arXiv | [Project](https://sites.google.com/view/imaginationpolicy) |
 | [**Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning**](https://arxiv.org/abs/2509.08126) | arXiv | 2025-09-09 | Humanoids 2025 | [Project](https://sites.google.com/umn.edu/ogrg/home) |
+| [**GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning**](https://arxiv.org/abs/2602.04231) | ICRA 2026 | 2026-02-04 | - | |
 | [**SPGrasp: Spatiotemporal Prompt-driven Grasp Synthesis in Dynamic Scenes**](https://arxiv.org/abs/2508.20547) | arXiv | 2025-08-28 | - | |
 | [**FineGrasp: Towards Robust Grasping for Delicate Objects**](https://arxiv.org/abs/2507.05978) | arXiv | 2025-07-08 | ![Star](https://img.shields.io/github/stars/HorizonRobotics/robo_orchard_lab?style=social&label=Star) [Github](https://github.com/HorizonRobotics/robo_orchard_lab/tree/master/projects/finegrasp_graspnet1b) | |
 | [**OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping**](https://arxiv.org/abs/2511.20841) | ISER 2025 | 2025-11-25 | [Project](https://ekjt.github.io/OVAL-Grasp/) | |
@@ -177,6 +182,11 @@
 ### Dexterous Grasp
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation**](https://arxiv.org/abs/2602.00915) | arXiv | 2026-01-31 | [Project](https://georgewuzy.github.io/UniMorphGrasp-website/) | |
+| [**DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning**](https://arxiv.org/abs/2601.15039) | arXiv | 2026-01-21 | ![Star](https://img.shields.io/github/stars/matthewmzy/CADGrasp?style=social&label=Star) [Github](https://github.com/matthewmzy/CADGrasp) | |
+| [**FSAG: Enhancing Human-to-Dexterous-Hand Finger-Specific Affordance Grounding via Diffusion Models**](https://arxiv.org/abs/2601.08246) | arXiv | 2026-01-13 | - | |
+| [**Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration**](https://arxiv.org/abs/2601.05243) | arXiv | 2026-01-08 | [Project](https://cordex-manipulation.github.io/) | |
+| [**Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation**](https://arxiv.org/abs/2601.02778) | arXiv | 2026-01-06 | [Project](https://dexmanip-seed.github.io/dexmanip/) | |
 | [**Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning**](https://arxiv.org/abs/2512.13380) | arXiv | 2025-12-15 | [Project](https://beingbeyond.github.io/DemoFunGrasp/) | |
 | [**OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance**](https://arxiv.org/abs/2512.03874) | arXiv | 2025-12-03 | [Project](https://sites.google.com/view/omnidexvlg) | |
 | [**ZeroDexGrasp: Zero-Shot Task-Oriented Dexterous Grasp Synthesis with Prompt-Based Multi-Stage Semantic Reasoning**](https://arxiv.org/abs/2511.13327) | arXiv | 2025-11-17 | - | |
@@ -196,9 +206,11 @@
 | [**D3Grasp: Diverse and Deformable Dexterous Grasping for General Objects**](https://arxiv.org/abs/2509.19892) | arXiv | 2025-09-24 | [Project](https://readerek.github.io/D3.github.io/) | |
 | [**HOGraspFlow: Exploring Vision-based Generative Grasp Synthesis with Hand-Object Priors and Taxonomy Awareness**](https://arxiv.org/abs/2509.16871) | arXiv | 2025-09-21 | - | |
 | [**Gen2Real: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**](https://arxiv.org/abs/2509.14178) | arXiv | 2025-09-16 | - | |
+| [**TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds**](https://arxiv.org/abs/2601.05499) | AAAI 2026 | 2026-01-09 | ![Star](https://img.shields.io/github/stars/SyKszzzzz/TOSC?style=social&label=Star) [Github](https://github.com/SyKszzzzz/TOSC) | |
 | [**Dexterous Manipulation Transfer via Progressive Kinematic-Dynamic Alignment**](https://arxiv.org/abs/2511.10987) | AAAI 2026 | 2025-11-14 | - | |
 | [**Force-Aware 3D Contact Modeling for Stable Grasp Generation**](https://arxiv.org/abs/2511.13247) | AAAI 2026 | 2025-11-17 | ![Star](https://img.shields.io/github/stars/chzh9311/force-aware-grasp?style=social&label=Star) [Github](https://github.com/chzh9311/force-aware-grasp) | |
 | [**Contact Map Transfer with Conditional Diffusion Model for Generalizable Dexterous Grasp Generation**](https://arxiv.org/abs/2511.01276) | NeurIPS 2025 | 2025-11-03 | [Project](https://cmtdiffusion.github.io/) | |
+| [**CADGrasp: Learning Contact and Collision Aware General Dexterous Grasping in Cluttered Scenes**](https://arxiv.org/abs/2601.15039) | NeurIPS 2025 | 2026-01-21 | ![Star](https://img.shields.io/github/stars/matthewmzy/CADGrasp?style=social&label=Star) [Github](https://github.com/matthewmzy/CADGrasp) | |
 | [**One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation**](https://arxiv.org/abs/2509.07978) | CoRL 2025 | 2025-09-09 | ![Star](https://img.shields.io/github/stars/gzwsama/OnePoseviaGen?style=social&label=Star) [Github](https://github.com/gzwsama/OnePoseviaGen) | |
 | [**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**](https://arxiv.org/abs/2509.08354) | T-RO 2025 | 2025-09-10 | [Project](https://grasplikehuman.github.io/) | |
 | [**GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping**](https://arxiv.org/abs/2508.15002) | CoRL 2025 | 2025-08-20 | [Project](https://graspqp.github.io/) | |
@@ -243,6 +255,7 @@
 | [**CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail**](https://arxiv.org/abs/2508.09558) | arXiv | 2025-08-13 | - |
 | [**DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation**](https://arxiv.org/abs/2507.01008) | arXiv | 2025-07-01 | [Project](https://dexwrist.csail.mit.edu/) |  |
 | _Non-learning Control_ |
+| [**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**](https://arxiv.org/abs/2512.22575) | arXiv | 2025-12-27 | [Project](https://zxw610.github.io/ParaMaP/) |
 | [**Sampling-Based Optimization with Parallelized Physics Simulator for Bimanual Manipulation**](https://arxiv.org/abs/2511.21264) | arXiv | 2025-11-26 | ![Star](https://img.shields.io/github/stars/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation?style=social&label=Star) [Github](https://github.com/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation) |
 | [**An Effective Trajectory Planning and an Optimized Path Planning for a 6-Degree-of-Freedom Robot Manipulator**](https://arxiv.org/abs/2509.00828) | arXiv | 2025-08-31 | - |
 | [**Reactive Model Predictive Contouring Control for Robot Manipulators**](https://arxiv.org/abs/2508.09502) | IROS 2025 | 2025-08-13 | - |
@@ -267,6 +280,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | _Robot Disign_ |
+| [**Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids**](https://arxiv.org/abs/2512.24657) | arXiv | 2025-12-31 | - |  |
 | [**ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration**](https://arxiv.org/abs/2512.03707) | arXiv | 2025-12-03 | [Project](https://an-axolotl.github.io/co-design-for-dexterity.github.io/) |  |
 | [**MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation**](https://arxiv.org/abs/2512.00324) | arXiv | 2025-11-29 | [Project](https://sites.google.com/view/mile-system) |  |
 | [**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**](https://arxiv.org/abs/2511.03481) | RA-L 2025 | 2025-11-05 | - |  |
@@ -286,6 +300,7 @@
 | [**Dexterous Manipulation by Rolling and Finger Gaiting**](https://ieeexplore.ieee.org/abstract/document/677060/) | ICAR 1998 | 1998-05 | - |
 | [**Kinematic and Force Analysis of Articulated Mechanical Hands**](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/105/1/35/433931/Kinematic-and-Force-Analysis-of-Articulated) | JMTAD 1998 | 1983-01 | - |
 | _RL_ |
+| [**RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation**](https://arxiv.org/abs/2602.01789) | arXiv | 2026-02-02 | [Project](https://weirdlabuw.github.io/rfs/) |
 | [**World Models Can Leverage Human Videos for Dexterous Manipulation**](https://arxiv.org/abs/2512.13644) | arXiv | 2025-12-15 | [Project](https://raktimgg.github.io/dexwm/) |
 | [**Learning Dexterous Manipulation Skills from Imperfect Simulations**](https://arxiv.org/abs/2512.02011) | arXiv | 2025-12-01 | ![Star](https://img.shields.io/github/stars/x-robotics-lab/dexscrew?style=social&label=Star) [Code](https://github.com/x-robotics-lab/dexscrew) |
 | [**Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions**](https://arxiv.org/abs/2509.07445) | CoRL 2025 | 2025-09-09 | [Project](https://hpfield.github.io/text2touch-website/) |
@@ -298,7 +313,9 @@
 | [**Deep dynamics models for learning dexterous manipulation**](https://arxiv.org/abs/1909.11652) | CoRL 2020 | 2019-09-25 | ![Star](https://img.shields.io/github/stars/google-research/pddm?style=social&label=Star) [Code](https://github.com/google-research/pddm) |
 | [**Dexterous manipulation with deep reinforcement learning: Efficient, general, and low-cost**](https://arxiv.org/abs/1810.06045) | ICRA 2019 | 2018-10-14 | [Project](https://sites.google.com/view/deeprl-handmanipulation) |
 | _IL_|
-| [**Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands**](https://arxiv.org/abs/2509.18455) | arXiv | 2025-09-22 | [Project](https://geodex2p.github.io/) |
+| [**Sample-Efficient Real-World Dexterous Policy Fine-Tuning via Action-Chunked Critics and Normalizing Flows**](https://arxiv.org/abs/2602.09580) | arXiv | 2026-02-10 | - |
+| [**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**](https://arxiv.org/abs/2602.09013) | arXiv | 2026-02-09 | [Project](https://videomanip.github.io/) |
+| [**GR-Dexter Technical Report**](https://arxiv.org/abs/2512.24210) | arXiv | 2025-12-30 | [Project](https://byte-dexter.github.io/gr-dexter/) |
 | [**Learning Dexterous Manipulation with Quantized Hand State**](https://arxiv.org/abs/2509.17450) | arXiv | 2025-09-22 | [Project](https://rise-policy.github.io/DQ-RISE/) |
 | [**FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy**](https://arxiv.org/abs/2508.14441) | arXiv | 2025-08-20  | [Project](https://sites.google.com/view/dex-fbi) |
 | [**Evaluating the Pre-Dressing Step: Unfolding Medical Garments Via Imitation Learning**](https://arxiv.org/abs/2507.18436) | IROS 2025 | 2025-07-24 | [Project](https://sites.google.com/view/pre-dressing) |
@@ -394,6 +411,7 @@
 |  Title  |   Venue  |   Date   |   Code   |  
 |:--------|:--------:|:--------:|:--------:|
 | _Non-learning Control_ |
+| [**Active Cross-Modal Visuo-Tactile Perception of Deformable Linear Objects**](https://arxiv.org/abs/2601.13979) | arXiv | 2026-01-20 | - |
 | [**Model Predictive Control for Dynamic Cloth Manipulation: Parameter Learning and Experimental Validation**](https://arxiv.org/abs/2209.05798) | TCST 2024 | 2022-09-13 | - |
 | [**Manipulating Deformable Objects by Interleaving Prediction, Planning, and Control**](https://arxiv.org/abs/2001.09950) | IJRR 2020 | 2020-01-27 | - |
 | [**Parametrized Shape Models for Clothing**](https://ieeexplore.ieee.org/abstract/document/5980453/) | ICRA 2011 | 2011-05 | - |
@@ -407,6 +425,7 @@
 | [**SoftGPT: Learn Goal-oriented Soft Object Manipulation Skills by Generative Pre-trained Heterogeneous Graph Transformer**](https://arxiv.org/abs/2306.12677) | IROS 2023 | 2023-06-22 | - |
 | [**Sim-to-Real Reinforcement Learning for Deformable Object Manipulation**](https://arxiv.org/abs/1806.07851) | CoRL 2018 | 2018-06-20 | ![Star](https://img.shields.io/github/stars/JanMatas/Rainbow_ddpg?style=social&label=Star) [Code](https://github.com/JanMatas/Rainbow_ddpg) |
 | _IL_ |
+| [**Preference Aligned Visuomotor Diffusion Policies for Deformable Object Manipulation**](https://arxiv.org/abs/2602.09583) | arXiv | 2026-02-10 | - |
 | [**RTFF: Random-to-Target Fabric Flattening Policy using Dual-Arm Manipulator**](https://arxiv.org/abs/2510.00814) | arXiv | 2025-10-01 | [Project](https://kaitang98.github.io/RTFF_Policy/) |
 | [**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**](https://arxiv.org/abs/2312.10008) | RA-L 2024 | 2023-12-15 | ![Star](https://img.shields.io/github/stars/ScheiklP/movement-primitive-diffusion?style=social&label=Star) [Code](https://github.com/ScheiklP/movement-primitive-diffusion) |
 | [**Soft and Rigid Object Grasping With Cross-Structure Hand Using Bilateral Control-Based Imitation Learning**](https://arxiv.org/abs/2311.09555) | RA-L 2023 | 2023-11-16 | - |
@@ -421,12 +440,16 @@
 | _RL+IL_ |
 | [**Learning Deformable Object Manipulation from Expert Demonstrations**](https://arxiv.org/abs/2207.10148) | RA-L 2022 | 2022-07-20 | ![Star](https://img.shields.io/github/stars/uscresl/dmfd?style=social&label=Star) [Code](https://github.com/uscresl/dmfd) |
 | [**Combining Imitation and Reinforcement Learning to Fold Deformable Planar Objects**](https://ieeexplore.ieee.org/document/6094992) | IROS 2011 | 2011-12-05 | - |
+| _VLA_ |
+| [**χ<sub>0</sub>: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**](https://arxiv.org/abs/2602.09021) | arXiv | 2026-02-09 | ![Star](https://img.shields.io/github/stars/OpenDriveLab/kai0?style=social&label=Star) [Code](https://github.com/OpenDriveLab/kai0) |
 | _3D Representations_ |
+| [**SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation**](https://arxiv.org/abs/2602.02402) | arXiv | 2026-02-02 | [Project](https://city-super.github.io/SoMA/) |
 | [**DoughNet: A Visual Predictive Model for Topological Manipulation of Deformable Objects**](https://arxiv.org/abs/2404.12524) | ECCV 2024 | 2024-04-18 | ![Star](https://img.shields.io/github/stars/dornik/doughnet?style=social&label=Star) [Code](https://github.com/dornik/doughnet) |
 | [**Interactive Perception for Deformable Object Manipulation**](https://arxiv.org/abs/2403.05177) | RA-L 2024 | 2024-03-08 | - |
 | [**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**](https://arxiv.org/abs/2402.07648) | ICRA 2024 | 2024-02-12 | - |
 | [**DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation**](https://arxiv.org/abs/2312.00583) | WAFR 2024 | 2023-12-30 | ![Star](https://img.shields.io/github/stars/momentum-robotics-lab/deformgs?style=social&label=Star) [Code](https://github.com/momentum-robotics-lab/deformgs) |
 | _Addordance_ |
+| [**TRACER: Texture-Robust Affordance Chain-of-Thought for Deformable-Object Refinement**](https://arxiv.org/abs/2601.20208) | arXiv | 2026-01-28 | ![Star](https://img.shields.io/github/stars/Dikay1/TRACER?style=social&label=Star) [Code](https://github.com/Dikay1/TRACER) | |
 | [**Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance**](https://arxiv.org/abs/2509.03889) | CoRL 2025 | 2025-09-04 | [Project](https://mhtippur.github.io/inairclothmanipulation/) | |
 | [**One-Shot Affordance Grounding of Deformable Objects in Egocentric Organizing Scenes**](https://arxiv.org/abs/2503.01092) | IROS 2025 | 2025-03-03 | ![Star](https://img.shields.io/github/stars/Dikay1/OS-AGDO?style=social&label=Star) [Github](https://github.com/Dikay1/OS-AGDO) | |
 | [**Learning Efficient Robotic Garment Manipulation with Standardization**](https://arxiv.org/abs/2506.22769) | ICML 2025 | 2025-06-28 | [Project](https://hellohaia.github.io/APS/) |
@@ -434,6 +457,7 @@
 | [**Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**](https://arxiv.org/abs/2303.11057) | ICCV 2023 | 2023-03-20 | ![Star](https://img.shields.io/github/stars/TritiumR/DeformableAffordance?style=social&label=Star) [Code](https://github.com/TritiumR/DeformableAffordance) |
 | [**3-D Deformable Object Manipulation Using Deep Neural Networks**](https://ieeexplore.ieee.org/document/8769898) | RA-L 2019 | 2019-07-23 | [Project](https://sites.google.com/view/mso-deep) |
 | _Estimating Physical Properties_ |
+| [**EMPM: Embodied MPM for Modeling and Simulation of Deformable Objects**](https://arxiv.org/abs/2601.17251) | arXiv | 2026-01-24 | [Project](https://embodied-mpm.github.io/) |
 | [**Deformable Linear Objects Manipulation With Online Model Parameters Estimation**](https://ieeexplore.ieee.org/document/10412116) | RA-L 2024 | 2024-01-24 | - |
 | [**GenDOM: Generalizable One-shot Deformable Object Manipulation with Parameter-Aware Policy**](https://arxiv.org/abs/2309.09051) | ICRA 2024 | 2023-09-16 | ![Star](https://img.shields.io/github/stars/Kuroki1931/UniDOM?style=social&label=Star) [Code](https://github.com/Kuroki1931/UniDOM) |
 
@@ -564,6 +588,7 @@
 | [**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**](https://arxiv.org/abs/2502.20396) | arXiv | 2023-06-15 | [Project](https://toruowo.github.io/recipe/) | |
 | [**Hierarchical Planning and Control for Box Loco-Manipulation**](https://arxiv.org/abs/2306.09532) | PACMCGIT 2023 | 2023-06-15 | ![Star](https://img.shields.io/github/stars/ZhaomingXie/box_manipulation_release?style=social&label=Star) [Github](https://github.com/ZhaomingXie/box_manipulation_release) | |
 | _IL_ |
+| [**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**](https://arxiv.org/abs/2601.09031) | arXiv | 2026-01-13 | ![Star](https://img.shields.io/github/stars/xtli12/RGMP-S?style=social&label=Star) [Github](https://github.com/xtli12/RGMP-S) | |
 | [**RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation**](https://arxiv.org/abs/2511.09141) | arXiv | 2025-11-12 | ![Star](https://img.shields.io/github/stars/xtli12/RGMP?style=social&label=Star) [Github](https://github.com/xtli12/RGMP) | |
 | [**DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation**](https://arxiv.org/abs/2510.11258) | arXiv | 2025-10-13 | ![Star](https://img.shields.io/github/stars/BeingBeyond/DemoHLM?style=social&label=Star) [Github](https://github.com/BeingBeyond/DemoHLM) | |
 | [**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**](https://arxiv.org/abs/2509.13200) | arXiv | 2025-09-16 | [Project](https://icradooropen.github.io/icradooropen/) | |
@@ -592,6 +617,8 @@
 | [UH-1: **Learning from Massive Human Videos for Universal Humanoid Pose Control**](https://arxiv.org/abs/2412.14172) | arXiv | 2024-12-18 | ![Star](https://img.shields.io/github/stars/sihengz02/UH-1?style=social&label=Star) [Github](https://github.com/sihengz02/UH-1) | |
 | [**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**](https://arxiv.org/abs/2406.14558) | NeurIPS 2024 | 2024-06-20 | ![Star](https://img.shields.io/github/stars/Winston-Gu/CooHOI?style=social&label=Star) [Github](https://github.com/Winston-Gu/CooHOI) | |
 | _VLA_ |
+| [**Act, Sense, Act: Learning Non-Markovian Active Perception Strategies from Large-Scale Egocentric Human Data**](https://arxiv.org/abs/2602.04600) | arXiv | 2026-02-04 | [Project](https://jern-li.github.io/asa/) | |
+| [**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**](https://arxiv.org/abs/2512.11047) | arXiv | 2025-12-11 | [Project](https://wholebodyvla.github.io/) | |
 | [**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**](https://arxiv.org/abs/2509.11839) | arXiv | 2025-09-15 | ![Star](https://img.shields.io/github/stars/jiachengliu3/WBC_Deploy?style=social&label=Star) [Github](https://github.com/jiachengliu3/WBC_Deploy) | |
 | [**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**](https://arxiv.org/abs/2507.12440) | arXiv | 2025-07-16 | [Project](https://rchalyang.github.io/EgoVLA/) | |
 | [**GR00T N1: An Open Foundation Model for Generalist Humanoid Robots**](https://arxiv.org/abs/2503.14734) | arXiv | 2025-03-18 | ![Star](https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T?style=social&label=Star) [Github](https://github.com/NVIDIA/Isaac-GR00T) | |
@@ -605,7 +632,10 @@
 ## Aerial Manipulation
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**FlyAware: Inertia-Aware Aerial Manipulation via Vision-Based Estimation and Post-Grasp Adaptation**](https://arxiv.org/abs/2601.22686) | arXiv | 2026-01-30 | - | |
+| [**AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation**](https://arxiv.org/abs/2601.21602) | arXiv | 2026-01-29 | ![Star](https://img.shields.io/github/stars/SpencerSon2001/AIR-VLA?style=social&label=Star) [Github](https://github.com/SpencerSon2001/AIR-VLA) | |
 | [**AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models**](https://arxiv.org/abs/2511.01472) | arXiv | 2025-11-03 | [Project](https://sites.google.com/view/aermani-vlm) | |
+| [**Aerial Manipulation with Contact-Aware Onboard Perception and Hybrid Control**](https://arxiv.org/abs/2602.08251) | ICRA 2026 | 2026-02-09 | - | |
 | [**Autonomous Aerial Manipulation at Arbitrary Pose in SE(3) with Robust Control and Whole-body Planning**](https://arxiv.org/abs/2508.19608) | arXiv | 2025-08-27 | - | |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
