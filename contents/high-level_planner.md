@@ -93,6 +93,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | _Common Reasoning_ |
+| [**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**](https://arxiv.org/abs/2602.19313) | arXiv | 2026-02-22 | ![Star](https://img.shields.io/github/stars/TOPReward/TOPReward?style=social&label=Star) [Github](https://github.com/TOPReward/TOPReward) |  |
 | [**RoboReward: General-Purpose Vision-Language Reward Models for Robotics**](https://arxiv.org/abs/2601.00675) | arXiv | 2026-01-02 | [Project](https://crfm.stanford.edu/helm/robo-reward-bench/latest/) |  |
 | [**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**](https://arxiv.org/abs/2512.23703) | arXiv | 2025-12-29 | ![Star](https://img.shields.io/github/stars/FlagOpen/Robo-Dopamine?style=social&label=Star) [Github](https://github.com/FlagOpen/Robo-Dopamine) |  |
 | [**Unifying Deep Predicate Invention with Pre-trained Foundation Models**](https://arxiv.org/abs/2512.17992) | arXiv | 2025-12-19 | ![Star](https://img.shields.io/github/stars/weiqianwang123/UniPred?style=social&label=Star) [Github](https://github.com/weiqianwang123/UniPred) |  |
@@ -103,6 +104,7 @@
 | [**From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment**](https://arxiv.org/abs/2502.01828) | arXiv | 2025-02-03 | - |  |
 | [Matcha: **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models**](https://arxiv.org/abs/2303.08268) | IROS 2023 | 2023-03-14 | ![Star](https://img.shields.io/github/stars/xf-zhao/Matcha-agent?style=social&label=Star) [Github](https://github.com/xf-zhao/Matcha-agent) |  |
 | _Robot Reasoning_ |
+| [**RynnBrain: Open Embodied Foundation Models**](https://arxiv.org/abs/2602.14979) | arXiv | 2026-02-13 | ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/RynnBrain?style=social&label=Star) [Github](https://github.com/alibaba-damo-academy/RynnBrain) |  |
 | [**GSR: Learning Structured Reasoning for Embodied Manipulation**](https://arxiv.org/abs/2602.01693) | arXiv | 2026-02-02 | [Project](https://klmmotion.github.io/gsr.github.io/) |  |
 | [**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**](https://arxiv.org/abs/2512.24125) | arXiv | 2025-12-30 | [Project](https://geniereasoner.github.io/GenieReasoner/) |  |
 | [Pelican-VL 1.0: **Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization**](https://arxiv.org/abs/2511.16602) | arXiv | 2025-11-20 | ![Star](https://img.shields.io/github/stars/Open-X-Humanoid/pelican-vl?style=social&label=Star) [Github](https://github.com/Open-X-Humanoid/pelican-vl) |  |
@@ -141,6 +143,7 @@
 | [**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**](https://arxiv.org/abs/2311.02847) | ICRA 2024 | 2023-11-06 | ![Star](https://img.shields.io/github/stars/GeWu-Lab/LLM_articulated_object_manipulation?style=social&label=Star) [Github](https://github.com/GeWu-Lab/LLM_articulated_object_manipulation) | Part-based |
 | _Failure Reasoning_ |
 | [**Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols**](https://arxiv.org/abs/2512.02787) | arXiv | 2025-12-02 | [Project](https://x1nyuzhou.github.io/vifailback.github.io/) |  |
+| [**Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning**](https://arxiv.org/abs/2602.12405) | ICLR 2026 | 2026-02-12 | [Project](https://sites.google.com/utexas.edu/armor) |  |
 | [**I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models**](https://arxiv.org/abs/2509.16072) | arXiv | 2025-09-19 | ![Star](https://img.shields.io/github/stars/clemgris/I-FailSense?style=social&label=Star) [Github](https://github.com/clemgris/I-FailSense) |  |
 | [**Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies**](https://arxiv.org/abs/2503.08558) | arXiv | 2025-03-11 | [Project](https://cxu-tri.github.io/FAIL-Detect-Website/) |  |
 | [**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**](https://arxiv.org/abs/2412.04455) | CVPR 2025 | 2024-12-05 | [Project](https://zhoues.github.io/Code-as-Monitor/) | Failure Detection |
@@ -192,6 +195,8 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Point Cloud_ |
+| [**HeRO: Hierarchical 3D Semantic Representation for Pose-aware Object Manipulation**](https://arxiv.org/abs/2602.18817) | arXiv | 2026-02-21 | ![Star](https://img.shields.io/github/stars/Chongyang-99/HeRO?style=social&label=Star) [Github](https://github.com/Chongyang-99/HeRO) |  |
+| [**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**](https://arxiv.org/abs/2602.10101) | arXiv | 2026-02-10 | ![Star](https://img.shields.io/github/stars/InternRobotics/Robo3R?style=social&label=Star) [Github](https://github.com/InternRobotics/Robo3R) |  |
 | [**Differentiable Inverse Graphics for Zero-shot Scene Reconstruction and Robot Grasping**](https://arxiv.org/abs/2602.05029) | arXiv | 2026-02-04 | - |  |
 | [**Stable Offline Hand-Eye Calibration for any Robot with Just One Mark**](https://arxiv.org/abs/2511.17001) | arXiv | 2025-11-21 | - |  |
 | [**Robot Learning from a Physical World Model**](https://arxiv.org/abs/2511.07416) | arXiv | 2025-11-10 | ![Star](https://img.shields.io/github/stars/PointsCoder/OpenReal2Sim?style=social&label=Star) [Github](https://github.com/PointsCoder/OpenReal2Sim) |  |
@@ -204,6 +209,7 @@
 | [**PartManip: Learning Cross-Category Generalizable Part Manipulation Policy from Point Cloud Observations**](https://arxiv.org/abs/2303.16958) | CVPR 2023 | 2023-03-29 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/PartManip?style=social&label=Star)  [Github](https://github.com/PKU-EPIC/PartManip) | Part-based |
 | [**GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts**](https://arxiv.org/abs/2211.05272) | CVPR 2023 | 2022-11-10 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/GAPartNet?style=social&label=Star) [Github](https://github.com/PKU-EPIC/GAPartNet) | Part-based |
 | _Field_ |
+| [**Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation**](https://arxiv.org/abs/2602.14193) | ICLR 2026 | 2026-02-15 | [Project](https://pa3ff.github.io/) |  
 | [**D<sup>3</sup>Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement**](https://arxiv.org/abs/2309.16118) | CoRL 2024 | 2023-09-28 | ![Star](https://img.shields.io/github/stars/WangYixuan12/d3fields?style=social&label=Star) [Github](https://github.com/WangYixuan12/d3fields) |  
 | [F3RM: **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation**](https://arxiv.org/abs/2308.07931) | CoRL 2023 | 2023-07-27 | ![Star](https://img.shields.io/github/stars/f3rm/f3rm?style=social&label=Star) [Github](https://github.com/f3rm/f3rm) | NeRF |
 | [R-NDF: **SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields**](https://arxiv.org/abs/2211.09786) | CORL 2022 | 2022-11-17 | ![Star](https://img.shields.io/github/stars/anthonysimeonov/relational_ndf?style=social&label=Star)  [Github](https://github.com/anthonysimeonov/relational_ndf) |  |

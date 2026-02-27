@@ -46,6 +46,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**TriPilot-FF: Coordinated Whole-Body Teleoperation with Force Feedback**](https://arxiv.org/abs/2602.09888) | arXiv | 2026-02-10 | ![Star](https://img.shields.io/github/stars/Jeong-zju/zeno-wholebody-teleop?style=social&label=Star) [Github](https://github.com/Jeong-zju/zeno-wholebody-teleop) |  |
 | [**RAPID: Reconfigurable, Adaptive Platform for Iterative Design**](https://arxiv.org/abs/2602.06653) | arXiv | 2026-02-06 | ![Star](https://img.shields.io/github/stars/aod321/rapid?style=social&label=Star) [Github](https://github.com/aod321/rapid) |  |
 | [**A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation**](https://arxiv.org/abs/2602.01632) | arXiv | 2026-02-02 | [Project](https://sew-mimic.com/) |  |
 | [**A Multimodal Data Collection Framework for Dialogue-Driven Assistive Robotics to Clarify Ambiguities: A Wizard-of-Oz Pilot Study**](https://arxiv.org/abs/2601.16870) | arXiv | 2026-01-23 | - |  |
@@ -111,6 +112,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**](https://arxiv.org/abs/2602.18742) | arXiv | 2026-02-21 | [Project](https://seungkukim.github.io/robocurate/) |  |  
+| [**RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation**](https://arxiv.org/abs/2602.16444) | arXiv | 2026-02-18 | [Project](https://robogene-boost-vla.github.io/) |  |  
 | [**ExoGS: A 4D Real-to-Sim-to-Real Framework for Scalable Manipulation Data Collection**](https://arxiv.org/abs/2601.18629) | arXiv | 2026-01-26 | ![Star](https://img.shields.io/github/stars/zaixiabalala/ExoGS?style=social&label=Star) [Github](https://github.com/zaixiabalala/ExoGS) |  |  
 | [**One-Shot Real-World Demonstration Synthesis for Scalable Bimanual Manipulation**](https://arxiv.org/abs/2512.09297) | arXiv | 2025-12-10 | [Project](https://hnuzhy.github.io/projects/BiDemoSyn/) |  |  
 | [**AOMGen: Photoreal, Physics-Consistent Demonstration Generation for Articulated Object Manipulation**](https://arxiv.org/abs/2512.18396) | arXiv | 2025-12-20 | - |  |  
@@ -261,6 +264,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**RoboAug: One Annotation to Hundreds of Scenes via Region-Contrastive Data Augmentation for Robotic Manipulation**](https://arxiv.org/abs/2602.14032) | arXiv | 2026-02-15 | [Project](https://x-roboaug.github.io/) |  |
 | [**RoboPaint: From Human Demonstration to Any Robot and Any View**](https://arxiv.org/abs/2602.05325) | arXiv | 2026-02-05 | - |  |
 | [**M<sup>3</sup>A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering**](https://arxiv.org/abs/2512.01446) | arXiv | 2025-12-01 | - |  |
 | [**Improving Robotic Manipulation Robustness via NICE Scene Surgery**](https://arxiv.org/abs/2511.22777) | arXiv | 2025-11-27 | - |  |
@@ -372,6 +376,7 @@
 | [**UMIGen: A Unified Framework for Egocentric Point Cloud Generation and Cross-Embodiment Robotic Imitation Learning**](https://arxiv.org/abs/2511.09302) | arXiv | 2025-11-12 | - |  |
 | [**EmbodiSwap for Zero-Shot Robot Imitation Learning**](https://arxiv.org/abs/2510.03706) | arXiv | 2025-10-04 | - |  |
 | [**Annotation-Free One-Shot Imitation Learning for Multi-Step Manipulation Tasks**](https://arxiv.org/abs/2509.24972) | arXiv | 2025-09-29 | ![Star](https://img.shields.io/github/stars/vijja-w/AF-OSIL-MS?style=social&label=Star) [Github](https://github.com/vijja-w/AF-OSIL-MS) |  |
+| [**Flow-Enabled Generalization to Human Demonstrations in Few-Shot Imitation Learning**](https://arxiv.org/abs/2602.10594) | ICRA 2026 | 2026-02-11 | - |  |
 | [**TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization**](https://arxiv.org/abs/2509.00310) | arXiv | 2025-08-30 | - |  |
 | [**Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning**](https://arxiv.org/abs/2503.08029) | IROS 2025 | 2025-03-11 | [Project](https://elastic-motion-policy.github.io/EMP/) |  |
 | [**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**](https://arxiv.org/abs/2503.07135) | CVPR 2025 | 2025-03-10 | [Project](https://hanzhic.github.io/vidbot-project/) |  |
@@ -537,6 +542,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**MOTIF: Learning Action Motifs for Few-shot Cross-Embodiment Transfer**](https://arxiv.org/abs/2602.13764) | arXiv | 2026-02-14 | ![Star](https://img.shields.io/github/stars/buduz/MOTIF?style=social&label=Star) [Github](https://github.com/buduz/MOTIF) |  |
+| [**LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer**](https://arxiv.org/abs/2602.10556) | arXiv | 2026-02-11 | ![Star](https://img.shields.io/github/stars/lihzha/lap?style=social&label=Star) [Github](https://github.com/lihzha/lap) |  |
 | [**Sim-and-Human Co-training for Data-Efficient and Generalizable Robotic Manipulation**](https://arxiv.org/abs/2601.19406) | arXiv | 2026-01-27 | ![Star](https://img.shields.io/github/stars/kaipengfang/SimHum?style=social&label=Star) [Github](https://github.com/kaipengfang/SimHum) |  |
 | [**CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space**](https://arxiv.org/abs/2601.09163) | RA-L 2026 | 2026-01-14 | [Project](https://cross-embodiment-interface.github.io/) |  |
 | [**X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**](https://arxiv.org/abs/2511.04671) | arXiv | 2025-11-06 | [Project](https://portal-cornell.github.io/X-Diffusion/) |  |
@@ -595,6 +602,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies**](https://arxiv.org/abs/2602.12794) | ICRA 2026 | 2026-02-13 | ![Star](https://img.shields.io/github/stars/TU-Wien-ACIN-CDS/SafeFlowMPC?style=social&label=Star) [Github](https://github.com/TU-Wien-ACIN-CDS/SafeFlowMPC) |  |
 | [**SURE: Safe Uncertainty-Aware Robot-Environment Interaction using Trajectory Optimization**](https://arxiv.org/abs/2602.06864) | arXiv | 2026-02-06 | - |  |
 | [**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**](https://arxiv.org/abs/2601.09920) | arXiv | 2026-01-14 | - |  |
 | [**ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration**](https://arxiv.org/abs/2512.03707) | arXiv | 2025-12-03 | ![Star](https://img.shields.io/github/stars/SMulkana/ContactRL?style=social&label=Star) [Github](https://github.com/SMulkana/ContactRL) |  |

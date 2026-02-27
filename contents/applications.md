@@ -36,6 +36,9 @@
 | [LLM-GROP: **Task and Motion Planning with Large Language Models for Object Rearrangement**](https://arxiv.org/abs/2303.06247) | IROS 2023 | 2023-03-10 | [Colab](https://colab.research.google.com/drive/1cSqoSc6Gk9KM9p-GwHSIIL5VfZICGW3B?usp=sharing) | Object Rearrangement |
 | [**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**](https://arxiv.org/abs/2210.02438) | RA-L 2023 | 2022-10-05 | [Project](https://www.robot-learning.uk/) | Object Rearrangement |
 | _Tool Manipulation_ |
+| [**Grasp to Act: Dexterous Grasping for Tool Use in Dynamic Settings**](https://arxiv.org/abs/2602.20466) | arXiv | 2026-02-24 | [Project](https://grasp2act.github.io/) | Tool |
+| [**SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation**](https://arxiv.org/abs/2602.16863) | arXiv | 2026-02-18 | ![Star](https://img.shields.io/github/stars/tylerlum/simtoolreal?style=social&label=Star) [Github](https://github.com/tylerlum/simtoolreal) | Tool |
+| [**Semantic-Contact Fields for Category-Level Generalizable Tactile Tool Manipulation**](https://arxiv.org/abs/2602.13833) | arXiv | 2026-02-14 | [Project](https://kevinskwk.github.io/SCFields/) | Tool |
 | [**GET-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions**](https://arxiv.org/abs/2510.25754) | arXiv | 2025-10-29 | - | Tool |
 | [**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**](https://arxiv.org/abs/2506.14763) | arXiv | 2025-06-17 | [Project](https://chunru-lin.github.io/RobotSmith/) | Tool |
 | [**FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation**](https://arxiv.org/abs/2502.11744) | arXiv | 2025-02-17 | ![Star](https://img.shields.io/github/stars/mkt1412/FUNCTO_public?style=social&label=Star) [Github](https://github.com/mkt1412/FUNCTO_public) | |
