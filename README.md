@@ -241,6 +241,7 @@ Stay tuned for updates to this comprehensive survey!
 | [**RLBench: The Robot Learning Benchmark & Learning Environment**](https://arxiv.org/abs/1909.12271) | RA-L 2020 | 2019-09-26 | ![Star](https://img.shields.io/github/stars/stepjam/RLBench?style=social&label=Star) [Github](https://github.com/stepjam/RLBench) | |
 | [Franka-Kitchen: **Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning**](https://arxiv.org/abs/1910.11956) | CoRL 2019 | 2019-10-25 | [Project](https://relay-policy-learning.github.io/) |
 | [**Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**](https://arxiv.org/abs/1910.10897) | CoRL 2019 | 2019-10-24 | ![Star](https://img.shields.io/github/stars/Farama-Foundation/Metaworld?style=social&label=Star) [Github](https://github.com/Farama-Foundation/Metaworld) |
+| [**so101-nexus: Full-stack robot learning for the SO-101 arm**](https://github.com/johnsutor/so101-nexus) | - | 2025 | [Github](https://github.com/johnsutor/so101-nexus) |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
