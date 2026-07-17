@@ -91,6 +91,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Vision-Based Obstacle Separation for Strawberry Harvesting in Clusters Using Hierarchical Reinforcement Learning**](https://arxiv.org/abs/2607.13799) | IROS 2026 | 2026-07-15 | - |
 | [**HarvestFlex: Strawberry Harvesting via Vision-Language-Action Policy Adaptation in the Wild**](https://arxiv.org/abs/2603.05982) | arXiv | 2026-03-06 | - |
 | [**Task-Relevant and Irrelevant Region-Aware Augmentation for Generalizable Vision-Based Imitation Learning in Agricultural Manipulation**](https://arxiv.org/abs/2603.04845) | arXiv | 2026-03-05  | - |
 | [**UNCLE-Grasp: Uncertainty-Aware Grasping of Leaf-Occluded Strawberries**](https://arxiv.org/abs/2601.14492) | arXiv | 2026-01-20  | - |
@@ -153,6 +154,7 @@
 | [**3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery**](https://arxiv.org/abs/2204.031958) | ICRA 2022 | 2022-04-07 | - | |
 | [**Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning**](https://ieeexplore.ieee.org/document/9196912) | ICRA 2020 | 2020-09-15 | - | |
 | _Biology_ |
+| [**LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories**](https://arxiv.org/abs/2606.13578) | arXiv | 2026-06-11 | ![Star](https://img.shields.io/github/stars/zjunlp/LabVLA?style=social&label=Star) [Github](https://github.com/zjunlp/LabVLA) |  |
 | [**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**](https://arxiv.org/abs/2605.07306) | arXiv | 2026-05-08 | - |  |
 | [**Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control**](https://arxiv.org/abs/2604.11640) | arXiv | 2026-04-13 | - | Survey |
 | [**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**](https://arxiv.org/abs/2601.20776) | arXiv | 2026-01-28 | - | |
@@ -179,6 +181,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis**](https://arxiv.org/abs/2606.25620) | arXiv | 2026-06-24 | - | |
 | [**HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos**](https://arxiv.org/abs/2602.02473) | arXiv | 2026-02-02 | [Project](https://wyhuai.github.io/human-x/) | |
 | [**Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning**](https://arxiv.org/abs/2511.11218) | arXiv | 2025-11-14 | [Project](https://humanoid-badminton.github.io/Humanoid-Whole-Body-Badminton-via-Multi-Stage-Reinforcement-Learning/) | |
 | [**SpikePingpong: Spike Vision-based Fast-Slow Pingpong Robot System**](https://arxiv.org/abs/2506.06690) | ICLR 2026 | 2025-06-07 | - | |
