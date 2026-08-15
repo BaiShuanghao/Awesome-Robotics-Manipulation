@@ -608,4 +608,4 @@ If you find this repository useful, please consider citing:
 
 <!-- ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BaiShuanghao/Awesome-Robotics-Manipulation&type=date&legend=top-left)](https://www.star-history.com/#BaiShuanghao/Awesome-Robotics-Manipulation&type=date&legend=top-left) -->
+[![Star History Chart](https://star-history.dera.page/svg?repos=BaiShuanghao/Awesome-Robotics-Manipulation&type=date&legend=top-left)](https://star-history.dera.page/#BaiShuanghao/Awesome-Robotics-Manipulation&type=date&legend=top-left) -->
