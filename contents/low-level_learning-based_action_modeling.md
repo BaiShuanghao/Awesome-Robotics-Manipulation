@@ -1,6 +1,6 @@
 <h2 id="table-of-contents">🏠 Table of Contents</h2>
 
-- Low-level Learning-based Action Modelling
+- Low-level Learning-based Action Modeling
   - [Learning Strategy](#learning-strategy)
     - [Imitation Learning (IL)](#imitation-learning-il)
       - [Imitation Learning from Action](#imitation-learning-from-action)
