@@ -131,7 +131,7 @@ Stay tuned for updates to this comprehensive survey!
 | _Manipulation_ |
 | [**Data Pyramid for Embodied Manipulation**](https://arxiv.org/abs/2607.24744) | arXiv | 2026-07-27 | ![Star](https://img.shields.io/github/stars/worldbench/awesome-embodied-data-pyramid?style=social&label=Star) [GitHub](https://github.com/worldbench/awesome-embodied-data-pyramid) | Data |
 | [**3D Generation for Embodied AI and Robotic Simulation: A Survey**](https://arxiv.org/abs/2604.26509) | arXiv | 2026-04-29 | - | 3D |
-| [**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives**](https://arxiv.org/abs/2512.22983) | arXiv | 2025-12-28 | - | Manipulation |
+| [**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives**](https://arxiv.org/abs/2512.22983) | T-RO 2026 | 2025-12-28 | ![Star](https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=social&label=Star) [GitHub](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) | Manipulation |
 | [**Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey**](https://arxiv.org/abs/2510.10903) | arXiv | 2025-10-13 | ![Star](https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=social&label=Star) [GitHub](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) | Manipulation |
 | [**A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI**](https://arxiv.org/abs/2505.01458) | arXiv | 2025-05-01 | - | Navigation and Manipulation |
 | [**Diffusion Models for Robotic Manipulation: A Survey**](https://arxiv.org/abs/2504.08438) | arXiv | 2025-04-11 | - | Manipulation + DP |
