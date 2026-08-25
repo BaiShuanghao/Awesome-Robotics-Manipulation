@@ -20,9 +20,10 @@ This repository will be continuously updated, and we warmly welcome contribution
 - **[2024/10]** Repository is now public!
 
 
+## 📝 Summary of Survey
 <details>
 
-<summary>Summary of Survey</summary>
+<summary>Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey</summary>
 
 This survey presents a unified perspective on robot manipulation by organizing existing methods according to the relationship between **high-level planning** and **low-level action modeling**. We provide a systematic taxonomy that connects different forms of task-level reasoning, structured representations, and executable action generation.
 
@@ -126,7 +127,7 @@ The keyword analysis summarizes major research trends in robot manipulation, hig
 
 
 <!-- ------- 1 - Papers ------- -->
-## 📝 Awesome Papers
+## 📑 Awesome Papers
 
 <!-- ------- 1.1 - Survey ------- -->
 ### 📄 Survey
@@ -635,7 +636,7 @@ The keyword analysis summarizes major research trends in robot manipulation, hig
 
 
 
-## ✨ Citation
+## 🪄 Citation
 
 If you find this repository useful, please consider citing:
 ```
