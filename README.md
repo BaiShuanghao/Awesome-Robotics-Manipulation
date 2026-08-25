@@ -19,22 +19,47 @@ This repository will be continuously updated, and we warmly welcome contribution
 - **[2024/12]** Introduced coverage of *Dexterous Grasp*.  
 - **[2024/10]** Repository is now public!
 
+
 <details>
-Stay tuned for updates to this comprehensive survey!
 
 <summary>Summary of Survey</summary>
 
+This survey presents a unified perspective on robot manipulation by organizing existing methods according to the relationship between **high-level planning** and **low-level action modeling**. We provide a systematic taxonomy that connects different forms of task-level reasoning, structured representations, and executable action generation.
+
 <div align="center">
-<img src="imgs/summary.png" alt="summary" 
-     style="image-rendering: auto; max-width: 100%; height: auto;">
+  <img src="imgs/summary.png" alt="summary" 
+       style="image-rendering: auto; max-width: 100%; height: auto;">
 </div>
+
+The survey first reviews robot manipulation from multiple aspects, including task types, robot embodiments, simulators and benchmarks, high-level planning, learning-based action modeling, applications, and key challenges. This overview provides a comprehensive map of recent advances and highlights the connections among different research directions.
 
 <div align="center">
   <img src="imgs/basic.png" alt="basic"
-       style="image-rendering: auto; max-width: 50%; height: auto;">
+       style="image-rendering: auto; max-width: 65%; height: auto;">
 </div>
-   
+
+At the algorithmic level, we formulate robot manipulation as a two-stage process consisting of **high-level planning** and **low-level action modeling**. High-level planning focuses on generating structured intermediate representations, such as task plans, geometric constraints, affordances, code, video predictions, and 3D representations. These structured outputs can be instantiated as constraints or inputs for low-level action models, which generate executable robot actions.
+
+For learning-based action modeling, we further organize existing methods into three fundamental components:
+**input modeling**, which studies what sensory modalities are used and how they are represented; **latent learning**, which explores how intermediate representations or latent actions are learned; and **policy learning**, which investigates how actions are generated from learned representations.
+
+<div align="center">
+  <img src="imgs/venue_distribution.png" alt="venue distribution"
+       style="image-rendering: auto; max-width: 95%; height: auto;">
+</div>
+
+The survey covers a broad range of literature from major robotics, machine learning, and computer vision venues. The collected papers are mainly published in leading conferences and journals, including CoRL, ICRA, RSS, IROS, NeurIPS, ICLR, CVPR, ICML, IEEE RA-L, IEEE T-RO, IJRR, and other representative venues.
+
+<div align="center">
+  <img src="imgs/keyword_wordcloud.png" alt="keyword cloud"
+       style="image-rendering: auto; max-width: 100%; height: auto;">
+</div>
+
+The keyword analysis summarizes major research trends in robot manipulation, highlighting emerging topics such as imitation learning, reinforcement learning, vision-language-action models, diffusion policies, dexterous manipulation, grasping, world models, and generalization.
+
 </details>
+
+
 
 <!-- ------- 0 - Content Table ------- -->
 <h2 id="table-of-contents">🏠 Table of Contents</h2>
