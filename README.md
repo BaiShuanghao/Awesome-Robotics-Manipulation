@@ -34,7 +34,7 @@ This survey presents a unified perspective on robot manipulation by organizing e
 The survey first reviews robot manipulation from multiple aspects, including task types, robot embodiments, simulators and benchmarks, high-level planning, learning-based action modeling, applications, and key challenges. This overview provides a comprehensive map of recent advances and highlights the connections among different research directions.
 
 <div align="center">
-  <img src="imgs/basic.png" alt="basic"
+  <img src="imgs/basic.png" alt="basic" width="50%"
        style="image-rendering: auto; max-width: 65%; height: auto;">
 </div>
 
