@@ -299,7 +299,8 @@ For learning-based action modeling, we further organize existing methods into th
 | [Robomimic: **What Matters in Learning from Offline Human Demonstrations for Robot Manipulation**](https://arxiv.org/abs/2108.03298) | CoRL 2021 | 2021-08-06 | ![Star](https://img.shields.io/github/stars/ARISE-Initiative/robomimic?style=social&label=Star) [GitHub](https://github.com/ARISE-Initiative/robomimic) | |
 | [**RLBench: The Robot Learning Benchmark & Learning Environment**](https://arxiv.org/abs/1909.12271) | RA-L 2020 | 2019-09-26 | ![Star](https://img.shields.io/github/stars/stepjam/RLBench?style=social&label=Star) [GitHub](https://github.com/stepjam/RLBench) | |
 | [Franka-Kitchen: **Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning**](https://arxiv.org/abs/1910.11956) | CoRL 2019 | 2019-10-25 | [Project](https://relay-policy-learning.github.io/) |
-| [**Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**](https://arxiv.org/abs/1910.10897) | CoRL 2019 | 2019-10-24 | ![Star](https://img.shields.io/github/stars/Farama-Foundation/Metaworld?style=social&label=Star) [GitHub](https://github.com/Farama-Foundation/Metaworld) |
+| [**Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**](https://arxiv.org/abs/1910.10897) | CoRL 2019 | 2019-10-24 | ![Star](https://img.shields.io/github/stars/Farama-Foundation/Metaworld?style=social&label=Star) [Github](https://github.com/Farama-Foundation/Metaworld) |
+
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
@@ -650,6 +651,8 @@ For learning-based action modeling, we further organize existing methods into th
 | [**Ego4D: Around the World in 3,000 Hours of Egocentric Video**](https://arxiv.org/abs/2110.07058) | CVPR 2022 | 2021-10-13 | [Project](https://ego4d-data.org/) | |
 | [**The "something something" Video Database for Learning and Evaluating Visual Common Sense**](https://arxiv.org/abs/1706.04261) | CVPR 2017 | 2021-10-13 | [Project](https://www.qualcomm.com/developer/software/something-something-v-2-dataset) | |
 
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 
 
 <!-- ------- 3 - Techniques ------- -->
@@ -660,7 +663,10 @@ For learning-based action modeling, we further organize existing methods into th
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**so101-nexus: Full-stack robot learning for the SO-101 arm**](https://github.com/johnsutor/so101-nexus) | - | 2026-02-22 | [Github](https://github.com/johnsutor/so101-nexus) |
 | [**Robot Learning: A Tutorial**](https://arxiv.org/abs/2510.12403) | arXiv | 2025-10-14 | ![Star](https://img.shields.io/github/stars/huggingface/lerobot?style=social&label=Star) [GitHub](https://github.com/huggingface/lerobot) | |
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### GitHub Repo
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
