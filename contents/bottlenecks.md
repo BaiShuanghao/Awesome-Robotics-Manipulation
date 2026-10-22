@@ -489,6 +489,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**POIL: Point-based One-Shot Imitation Learning with Stable Dynamical Systems**](https://arxiv.org/abs/2609.30404) | arXiv | 2026-09-24 | [Project](https://sangminkim-99.github.io/poil/) |  |
 | [**Adaptation of Generalist Robot Policies with Minimal Data**](https://arxiv.org/abs/2608.11363) | arXiv | 2026-08-11 | - |  |
 | [**SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer**](https://arxiv.org/abs/2607.28382) | arXiv | 2026-07-30 | ![Star](https://img.shields.io/github/stars/semancorr/SemAnCorr?style=social&label=Star) [GitHub](https://github.com/semancorr/SemAnCorr) |  |
 | [**PGDG: Physically Grounded Data Generation for Robust Bimanual Policy Learning from a Single Demonstration**](https://arxiv.org/abs/2605.21710) | arXiv | 2026-05-20 | [Project](https://cunxid.github.io/PGDG/) |  |
@@ -634,7 +635,7 @@
 | [**UniviewVLA: A Unified Multiview Vision-Language-Action Model with World Modeling**](https://arxiv.org/abs/2606.21501) | arXiv | 2026-06-19 | [Project](https://sii-quantum.github.io/MultiviewVLA.github.io/) | |
 | [**OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation**](https://arxiv.org/abs/2605.25829) | arXiv | 2026-05-25 | [Project](https://npuhandsome.github.io/OASIS_web/) | |
 | [**Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning**](https://arxiv.org/abs/2603.29192) | arXiv | 2026-03-31 | ![Star](https://img.shields.io/github/stars/SanMumumu/GenSplat?style=social&label=Star) [GitHub](https://github.com/SanMumumu/GenSplat) | |
-| [**AnyCamVLA: Zero-Shot Camera Adaptation for Viewpoint Robust Vision-Language-Action Models**](https://arxiv.org/abs/2603.05868) | arXiv | 2026-03-06 | - | |
+| [**AnyCamVLA: Zero-Shot Camera Adaptation for Viewpoint Robust Vision-Language-Action Models**](https://arxiv.org/abs/2603.05868) | IROS 2026 | 2026-03-06 | [Project](https://heo0224.github.io/AnyCamVLA/) | |
 | [**EquiForm: Noise-Robust SE(3)-Equivariant Policy Learning from 3D Point Clouds**](https://arxiv.org/abs/2601.17486) | arXiv | 2026-01-24 | [Project](https://zhangzhiyuanzhang.github.io/equiform-website/) | |
 | [**Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets**](https://arxiv.org/abs/2601.09605) | arXiv | 2026-01-14 | [Project](https://sites.google.com/view/sim2real-viewpoints) | |
 | [**Learning to Act Robustly with View-Invariant Latent Actions**](https://arxiv.org/abs/2601.02994) | arXiv | 2026-01-06 | [Project](https://joon-stack.github.io/VILA/) | |
