@@ -504,6 +504,7 @@
 | [**Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics**](https://arxiv.org/abs/2406.10788) | CoRL 2024 | 2024-06-16 | [Project](https://embodied-gaussians.github.io/) | 3DGS |
 | [**ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation**](https://arxiv.org/abs/2403.08321) | ECCV 2024 | 2024-03-13 | ![Star](https://img.shields.io/github/stars/GuanxingLu/ManiGaussian?style=social&label=Star) [GitHub](https://github.com/GuanxingLu/ManiGaussian) |  |
 | _Policy Learning with WMs_ |
+| [**Latent evolving World Action Model (LeWAM)**](https://arxiv.org/abs/2609.27455) | arXiv | 2026-09-23 | ![Star](https://img.shields.io/github/stars/XuejiFang/LeWAM?style=social&label=Star) [GitHub](https://github.com/XuejiFang/LeWAM) | |
 | [**Learning Massively Multitask World Models for Continuous Control**](https://arxiv.org/abs/2511.19584) | arXiv | 2025-11-24 | ![Star](https://img.shields.io/github/stars/nicklashansen/newt?style=social&label=Star) [GitHub](https://github.com/nicklashansen/newt) |  |
 | [**Ctrl-World: A Controllable Generative World Model for Robot Manipulation**](https://arxiv.org/abs/2510.10125) | ICLR 2026 | 2025-10-11 | ![Star](https://img.shields.io/github/stars/Robert-gyj/Ctrl-World?style=social&label=Star) [GitHub](https://github.com/Robert-gyj/Ctrl-World) |  |
 | [**World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation**](https://arxiv.org/abs/2509.19080) | arXiv | 2025-09-23 | [Project](https://world4rl.github.io/) |  |

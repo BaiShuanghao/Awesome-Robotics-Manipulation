@@ -75,7 +75,6 @@
 | [**SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams**](https://arxiv.org/abs/2510.10602) | arXiv | 2025-10-12 | - |  |
 | [**GAPG: Geometry Aware Push-Grasping Synergy for Goal-Oriented Manipulation in Clutter**](https://arxiv.org/abs/2603.21195) | ICRA 2026 | 2026-03-22 | ![Star](https://img.shields.io/github/stars/xiaolijz/GAPG?style=social&label=Star) [GitHub](https://github.com/xiaolijz/GAPG) |  |
 | [**Grasp-MPC: Closed-Loop Visual Grasping via Value-Guided Model Predictive Control**](https://arxiv.org/abs/2509.06201) | arXiv | 2025-09-07 | [Project](https://grasp-mpc.github.io/) |  |
-| [**Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping**](https://arxiv.org/abs/2508.03099) | arXiv | 2025-08-11 | [Project](https://sangminkim-99.github.io/point2act/) |  |
 | [**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**](https://arxiv.org/abs/2505.02664) | arXiv | 2025-05-05 | ![Star](https://img.shields.io/github/stars/Ali-Rashidi/GtG2?style=social&label=Star) [GitHub](https://github.com/Ali-Rashidi/GtG2) |  |
 | [**PCF-Grasp: Converting Point Completion to Geometry Feature to Enhance 6-DoF Grasp**](https://arxiv.org/abs/2504.16320) | TSMC 2026 | 2025-04-22 | ![Star](https://img.shields.io/github/stars/ChengYaofeng/PCF-Grasp?style=social&label=Star) [GitHub](https://github.com/ChengYaofeng/PCF-Grasp) |  |
 | [**MISCGrasp: Leveraging Multiple Integrated Scales and Contrastive Learning for Enhanced Volumetric Grasping**](https://arxiv.org/abs/2507.02672) | IROS 2025 | 2025-07-03 | ![Star](https://img.shields.io/github/stars/Qingyu-Fan/MISCGrasp?style=social&label=Star) [GitHub](https://github.com/Qingyu-Fan/MISCGrasp) |  |
@@ -146,6 +145,7 @@
 | [**GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning**](https://arxiv.org/abs/2602.04231) | ICRA 2026 | 2026-02-04 | - | |
 | [**Attribute-based Object Grounding and Robot Grasp Detection with Spatial Reasoning**](https://arxiv.org/abs/2509.08126) | Humanoids 2025 | 2025-09-09 | [Project](https://sites.google.com/umn.edu/ogrg/home) |
 | [**SPGrasp: Spatiotemporal Prompt-driven Grasp Synthesis in Dynamic Scenes**](https://arxiv.org/abs/2508.20547) | arXiv | 2025-08-28 | ![Star](https://img.shields.io/github/stars/sejmoonwei/SPGrasp?style=social&label=Star) [GitHub](https://github.com/sejmoonwei/SPGrasp) | |
+| [**Point2Act: Efficient 3D Distillation of Multimodal LLMs for Zero-Shot Context-Aware Grasping**](https://arxiv.org/abs/2508.03099) | ICRA 2026 | 2025-08-11 | ![Star](https://img.shields.io/github/stars/sangminkim-99/Point2Act?style=social&label=Star) [GitHub](https://github.com/sangminkim-99/Point2Act) [Project](https://sangminkim-99.github.io/point2act/) |  |
 | [**FineGrasp: Towards Robust Grasping for Delicate Objects**](https://arxiv.org/abs/2507.05978) | arXiv | 2025-07-08 | ![Star](https://img.shields.io/github/stars/HorizonRobotics/robo_orchard_lab?style=social&label=Star) [GitHub](https://github.com/HorizonRobotics/robo_orchard_lab/tree/master/projects/finegrasp_graspnet1b) | |
 | [**OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping**](https://arxiv.org/abs/2511.20841) | ISER 2025 | 2025-11-25 | [Project](https://ekjt.github.io/OVAL-Grasp/) | |
 | [**MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping**](https://arxiv.org/abs/2506.06535) | WACV 2026 | 2025-06-06 | - | |
@@ -207,6 +207,7 @@
 | [**T<sup>2</sup>SQNet: A Recognition Model for Manipulating Partially Observed Transparent Tableware Objects**](https://openreview.net/pdf?id=M0JtsLuhEE) | CoRL 2024 | 2024-09-06 | ![Star](https://img.shields.io/github/stars/seungyeon-k/T2SQNet-public?style=social&label=Star) [GitHub](https://github.com/seungyeon-k/T2SQNet-public) | |
 | [**Residual-NeRF: Learning Residual NeRFs for Transparent Object Manipulation**](https://arxiv.org/abs/2405.06181) | ICRA 2024 | 2024-05-10 | ![Star](https://img.shields.io/github/stars/momentum-robotics-lab/residual-nerf?style=social&label=Star) [GitHub](https://github.com/momentum-robotics-lab/residual-nerf) | |
 | [**ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera**](https://arxiv.org/abs/2405.05648) | ICRA 2024 | 2024-05-09 | ![Star](https://img.shields.io/github/stars/jun7-shi/ASGrasp?style=social&label=Star) [GitHub](https://github.com/jun7-shi/ASGrasp) | |
+| [**NFL: Normal Field Learning for 6-DoF Grasping of Transparent Objects**](https://ieeexplore.ieee.org/document/10328050) | RA-L 2023 | 2023-11 | [Project](https://3d.snu.ac.kr/publications/NFL) | |
 | [**Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects**](https://arxiv.org/abs/2110.14217) | CoRL 2021 | 2021-10-27 | ![Star](https://img.shields.io/github/stars/BerkeleyAutomation/dex-nerf-datasets?style=social&label=Star) [GitHub](https://github.com/BerkeleyAutomation/dex-nerf-datasets) | |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
@@ -215,6 +216,8 @@
 ### Dexterous Grasp
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**See to Reach, Feel to Grasp: Learning a Blind Grasp Reflex for Anthropomorphic Robotic Hands**](https://arxiv.org/abs/2609.31323) | arXiv | 2026-09-25 | [Project](https://blindgraspreflex.github.io/) | |
+| [**Real-Time Force Regulation for Whole-Hand Dexterous Grasping**](https://arxiv.org/abs/2609.30082) | arXiv | 2026-09-24 | [Project](https://sangminkim-99.github.io/reactive-grasp-whole-hand/) | |
 | [**Adaptive Vision-Language Grasping via Composable Foundation Priors and Generalizable Grasp Synthesis**](https://arxiv.org/abs/2609.04096) | arXiv | 2026-09-03 | [Project](https://adarobovlg.github.io/) | |
 | [**Potential-Guided Particle Steering for Negation-Constrained Dexterous Grasping**](https://arxiv.org/abs/2609.00555) | arXiv | 2026-09-01 | [Project](https://geonho2.github.io/Potential-Guided/) | |
 | [**ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations**](https://arxiv.org/abs/2608.21355) | arXiv | 2026-08-21 | [Project](https://vitacphys.github.io/ViTacPhys/) | |
