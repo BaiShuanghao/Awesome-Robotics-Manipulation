@@ -766,7 +766,7 @@
 | [**Action-Effect Memory Pretraining for Robot Manipulation**](https://arxiv.org/abs/2606.12499) | arXiv | 2026-06-10 | [Project](https://dongqiuyijing.github.io/AEM-Research-Homepage-latest/) |  |
 | [**X-Imitator: Spatial-Aware Imitation Learning via Bidirectional Action-Pose Interaction**](https://arxiv.org/abs/2605.12162) | arXiv | 2026-05-12 | - |  |
 | [**Gated Memory Policy**](https://arxiv.org/abs/2604.18933) | arXiv | 2026-04-21 | ![Star](https://img.shields.io/github/stars/real-stanford/gated-memory-policy?style=social&label=Star) [GitHub](https://github.com/real-stanford/gated-memory-policy) |  |
-| [**Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories**](https://arxiv.org/abs/2603.25903) | arXiv | 2026-03-26 | - |  |
+| [**Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories**](https://arxiv.org/abs/2603.25903) | RSS 2026 | 2026-03-26 | ![Star](https://img.shields.io/github/stars/intelligent-control-lab/ENAP_controller?style=social&label=Star) [GitHub](https://github.com/intelligent-control-lab/ENAP_controller) |  |
 | [**VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory**](https://arxiv.org/abs/2603.04910) | arXiv | 2026-03-05 | ![Star](https://img.shields.io/github/stars/HarryLui98/code_vpwem?style=social&label=Star) [GitHub](https://github.com/HarryLui98/code_vpwem) |  |
 | [**When would Vision-Proprioception Policies Fail in Robotic Manipulation?**](https://arxiv.org/abs/2602.12032) | arXiv | 2026-02-12 | ![Star](https://img.shields.io/github/stars/GeWu-Lab/GAP?style=social&label=Star) [GitHub](https://github.com/GeWu-Lab/GAP) |  |
 | [**Viewpoint Matters: Dynamically Optimizing Viewpoints with Masked Autoencoder for Visual Manipulation**](https://arxiv.org/abs/2602.04243) | arXiv | 2026-02-04 | [Project](https://mae-select.github.io/) |  |
@@ -961,7 +961,7 @@
 | [**Assistron: Bayesian Shared Autonomy with Off-the-shelf Vision-Language-Action Models**](https://arxiv.org/abs/2606.23147) | arXiv | 2026-06-22 | ![Star](https://img.shields.io/github/stars/mousecpn/Assistron?style=social&label=Star) [GitHub](https://github.com/mousecpn/Assistron) |  |
 | [**APEX: Adaptive Policy Execution for Precise Manipulation**](https://arxiv.org/abs/2606.16504) | arXiv | 2026-06-15 | [Project](https://murphyzhao04.github.io/apex-project-page/) |  |
 | [**VeriSpace: Spatially Grounded Action Verification for Vision-Language-Action Models**](https://arxiv.org/abs/2606.10568) | arXiv | 2026-06-09 | - |  |
-| [**Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure**](https://arxiv.org/abs/2606.26588) | arXiv | 2026-06-25 | - |  |
+| [**Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure**](https://arxiv.org/abs/2606.26588) | CoRL 2026 | 2026-06-25 | [Project](https://pyywill.github.io/restruct-corl2026/) |  |
 | [**Dynamic Execution Horizon Prediction for Chunk-based Robot Policies**](https://arxiv.org/abs/2606.11408) | arXiv | 2026-06-09 | [Project](https://dehp-chunking.github.io/) |  |
 | [**Denoising Tells When to Replan: Denoising-Variance Adaptive Chunking for Flow-Based Robot Policies**](https://arxiv.org/abs/2606.03847) | arXiv | 2026-06-02 | - |  |
 | [**VLAConf: Calibrated Task-Success Confidence for Vision-Language-Action Models**](https://arxiv.org/abs/2605.29605) | arXiv | 2026-05-28 | [Project](https://sites.google.com/view/vlaconf) |  |

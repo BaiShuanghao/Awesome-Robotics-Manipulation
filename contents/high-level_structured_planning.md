@@ -19,6 +19,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**What Makes a Good Symbol for Hybrid Discrete-Continuous Planning?**](https://arxiv.org/abs/2610.23010) | arXiv | 2026-10-16 | [Project](https://pyywill.github.io/good-symbols/) |  |
 | [**Agent Priors-guided Policy Learning**](https://arxiv.org/abs/2609.35690) | arXiv | 2026-09-28 | ![Star](https://img.shields.io/github/stars/Agentics-robotics/Agent-Priors-guided-Policy-Learning?style=social&label=Star) [GitHub](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning) |  |
 | [**Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**](https://arxiv.org/abs/2608.16889) | arXiv | 2026-08-17 | - |  |
 | [**Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations**](https://arxiv.org/abs/2607.25397) | arXiv | 2026-07-28 | ![Star](https://img.shields.io/github/stars/Dr-LfD/Dr-LfD-dualArm?style=social&label=Star) [GitHub](https://github.com/Dr-LfD/Dr-LfD-dualArm) |  |
