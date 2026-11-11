@@ -382,6 +382,7 @@ For learning-based action modeling, we further organize existing methods into th
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**LEASH: Stay Safe in Agentic Robotics**](https://arxiv.org/abs/2611.14115) | arXiv | 2026-11-10 | ![Star](https://img.shields.io/github/stars/zhuqinfeng1999/LEASH?style=social&label=Star) [GitHub](https://github.com/zhuqinfeng1999/LEASH) |
 | [**ManiPhysicsBench: Physics-Based Assessment of Object Preservation in VLA Manipulation**](https://arxiv.org/abs/2610.02802) | arXiv | 2026-10-02 | - |
 | [**ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts**](https://arxiv.org/abs/2609.31792) | arXiv | 2026-09-25 | - |
 | [**SafeStage: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation**](https://arxiv.org/abs/2609.21223) | arXiv | 2026-09-18 | ![Star](https://img.shields.io/github/stars/JinzhuLuo/SafeStage?style=social&label=Star) [GitHub](https://github.com/JinzhuLuo/SafeStage) |
