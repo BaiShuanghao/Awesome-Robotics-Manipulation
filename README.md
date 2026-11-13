@@ -545,6 +545,7 @@ For learning-based action modeling, we further organize existing methods into th
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Alloy: A Multi-Material Physics Engine for Robot Learning**](https://arxiv.org/abs/2611.16312) | arXiv | 2026-11-12 | ![Star](https://img.shields.io/github/stars/argonrobotics-ai/alloy?style=social&label=Star) [GitHub](https://github.com/argonrobotics-ai/alloy) |
 | [**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**](https://arxiv.org/abs/2609.02546) | CoRL 2026 | 2026-09-02 | ![Star](https://img.shields.io/github/stars/MiYanDoris/ZETA?style=social&label=Star) [GitHub](https://github.com/MiYanDoris/ZETA) |
 | [**MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation**](https://arxiv.org/abs/2602.11337) | arXiv | 2026-02-11 | ![Star](https://img.shields.io/github/stars/allenai/molmospaces?style=social&label=Star) [GitHub](https://github.com/allenai/molmospaces) |
 | [**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**](https://arxiv.org/abs/2604.25459) | RSS 2026 | 2026-04-28 | ![Star](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social&label=Star) [GitHub](https://github.com/discoverse-dev/gs_playground) |
